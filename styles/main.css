@@ -950,7 +950,7 @@ td {
 }
 
       .main {
-        max-width: 1000px;
+        max-width: 780px;
       }
     
       .post-container .post .post-title {
@@ -971,6 +971,6 @@ td {
       }
     
       a:hover {
-        color: #fcc419;
+        color: #ffd43b;
       }
     

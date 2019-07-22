@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JULYsun.github.io/</id>
     <title>Julyyy.sun</title>
-    <updated>2019-07-20T07:24:42.767Z</updated>
+    <updated>2019-07-22T10:42:32.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://JULYsun.github.io/"/>
     <link rel="self" href="https://JULYsun.github.io//atom.xml"/>
@@ -11,7 +11,18 @@
     <icon>https://JULYsun.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Julyyy.sun</rights>
     <entry>
-        <title type="html"><![CDATA[可用性测试]]></title>
+        <title type="html"><![CDATA[项目纪实 / 数据采集与清洗工具]]></title>
+        <id>https://JULYsun.github.io//post/tool-data-processing</id>
+        <link href="https://JULYsun.github.io//post/tool-data-processing">
+        </link>
+        <updated>2019-07-21T16:05:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>数据研究的上游需求——数据的获取与清洗等预处理工作往往占据了分析过程80%的时间。数据采集与清洗工具采用半自动化云端协作的方式进行定向采集，并为非数据科学家降低了数据清洗门槛和时间消耗。这里介绍项目中的三个设计片段：1、任务流程的引导；2、数据处理结果展示与交互；3、撤销和返回状态的补充。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>数据研究的上游需求——数据的获取与清洗等预处理工作往往占据了分析过程80%的时间。数据采集与清洗工具采用半自动化云端协作的方式进行定向采集，并为非数据科学家降低了数据清洗门槛和时间消耗。这里介绍项目中的三个设计片段：1、任务流程的引导；2、数据处理结果展示与交互；3、撤销和返回状态的补充。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[workshop / 可用性测试]]></title>
         <id>https://JULYsun.github.io//post/可用性测试</id>
         <link href="https://JULYsun.github.io//post/可用性测试">
         </link>

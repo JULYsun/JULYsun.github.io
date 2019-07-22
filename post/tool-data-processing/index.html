@@ -1,0 +1,269 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>项目纪实 / 数据采集与清洗工具 | Julyyy.sun</title>
+<meta name="description" content="No Tag Designer" />
+<link rel="shortcut icon" href="https://JULYsun.github.io//favicon.ico?v=1563790418168">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://JULYsun.github.io//styles/main.css">
+
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://JULYsun.github.io/">
+  <img class="avatar" src="https://JULYsun.github.io//images/avatar.png?v=1563790418168" alt="">
+  </a>
+  <h1 class="site-title">
+    Julyyy.sun
+  </h1>
+  <p class="site-description">
+    No Tag Designer
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="https://JULYsun.github.io/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="https://JULYsun.github.io//archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="https://JULYsun.github.io//tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="https://JULYsun.github.io//post/About/" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+        <a href="https://www.weibo.com/sunjia0/" target="_blank">
+          <i class="fab fa-weibo"></i>
+        </a>
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              项目纪实 / 数据采集与清洗工具
+            </h2>
+            <div class="post-info">
+              <span>
+                2019-07-22
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+              <img class="post-feature-image" src="https://JULYsun.github.io//post-images/tool-data-processing.jpg" alt="">
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>数据研究的上游需求——数据的获取与清洗等预处理工作往往占据了分析过程80%的时间。数据采集与清洗工具采用半自动化云端协作的方式进行定向采集，并为非数据科学家降低了数据清洗门槛和时间消耗。这里介绍项目中的三个设计片段：1、任务流程的引导；2、数据处理结果展示与交互；3、撤销和返回状态的补充。</p>
+<!--more-->
+<h2 id="1-项目介绍">1 项目介绍</h2>
+<h3 id="11-项目属性">1.1 项目属性</h3>
+<ul>
+<li>Web 端工具产品</li>
+<li>Master/Datail Interface</li>
+</ul>
+<h2 id="12-项目挑战">1.2 项目挑战</h2>
+<ul>
+<li>产品涉及专业的数据清洗操作，需要快速学习相关数据知识。</li>
+<li>Web 环境带来的资源和技术限制。</li>
+</ul>
+<h2 id="13-项目时间">1.3 项目时间</h2>
+<p>2018/11</p>
+<h2 id="2-项目设计">2 项目设计</h2>
+<h3 id="21-前言">2.1 前言</h3>
+<p>在传统桌面端的数据处理软件中，界面可以展示全量数据，每一步数据清洗操作后数据实时发生变化，对用户来说非常直观，也有很高的操作自由度。然而当数据体量较大时，Web 端的环境很难完成全量数据的传输和展现。因此，由后台反馈需要用户操作的样本数据，并充分提供用户决策信息的交互方式。</p>
+<p>基于以下的功能相似性，我们借鉴了类似计算机清理加速软件的设计模式：</p>
+<ul>
+<li>线性任务。清理软件的线性操作与「阶段」相似。</li>
+<li>提供决策信息。在“清理垃圾文件”功能中需要展示不同类型的垃圾文件和详细信息，帮助用户作出是否删除的判断。</li>
+</ul>
+<h3 id="22-任务流程的引导">2.2 任务流程的引导</h3>
+<p>项目开始前，我们获得了一份简略的产品功能表格，在第一次产品会议沟通后，我从用户角度整理了整体任务流程。<br>
+<img src="https://JULYsun.github.io//post-images/1563773974743.jpeg" alt=""><br>
+在复杂任务中，用户更容易迷失，而 step by step progress 控件可以更加直观地标识用户当前任务和操作预期。整理出3种样式展示不同的处理阶段：<br>
+<img src="https://JULYsun.github.io//post-images/1563777889045.svg" alt=""><br>
+从而统一组织了三大数据处理状态。</p>
+<h3 id="23-数据处理结果展示与交互-masterdetail-interface">2.3 数据处理结果展示与交互 Master/Detail Interface</h3>
+<p>对比全量数据展示和分条数据展示，分条数据在信息展示面积和资源要求方面更加具有优势。<br>
+<img src="https://JULYsun.github.io//post-images/1563774352342.png" alt=""><br>
+在界面设计上同样采用左右两栏布局：左侧（Master）为根据设置规则筛选出的样本数据列表，右侧（Detail）为样本数据的详细信息和相关操作。信息架构如下：<br>
+<img src="https://JULYsun.github.io//post-images/1563775046377.png" alt=""><br>
+设计原型图如下（以数据补缺为例）：<br>
+<img src="https://JULYsun.github.io//post-images/1563778699806.jpeg" alt=""></p>
+<h3 id="24-返回与撤销状态的补充">2.4 返回与撤销状态的补充</h3>
+<p>在产品设计中，操作返回和撤销也是必要的组成部分，在Web环境复杂流程产品中，返回和撤销逻辑同样与服务器端的保存状态密切相关。在设计结果在用户层面需要满足心智模型，在产品层面需要统一的跳转逻辑。<br>
+一次数据采集清洗任务包括课题建立、任务设置、数据补缺、数据替换、数据去重共五大步骤，在设计时容易陷入设计细节。由于数据补缺、替换、去重三大操作的相似性（设置-扫描-修改-生成），我们将它们定义为「阶段」。在结构梳理中，将「阶段」作为最小单元。<br>
+<img src="https://JULYsun.github.io//post-images/1563789714473.jpeg" alt=""><br>
+并在阶段之间加入<strong>完成页面</strong>，用于承载运行结果和用户操作（继续、导出、返回）。而返回按钮直接跳转至上一阶段的<strong>完成页面</strong>（回滚一个版本的数据表）：1、方便用户连续返回至前一个数据状态；2、出现数据的运行结果，让用户了解当前状态，对接下来的操作有准确的心理预期。</p>
+<h2 id="3-设计产出部分">3 设计产出（部分）</h2>
+<p><img src="https://JULYsun.github.io//post-images/1563785573892.jpeg" alt=""></p>
+<h2 id="4-项目总结">4 项目总结</h2>
+<p>数据采集与清洗工具是一次较为复杂的产品设计尝试。我们将一般的设计流程进行解构并应用在多个层次的设计工作中：<br>
+<img src="https://JULYsun.github.io//post-images/1563781344387.svg" alt=""><br>
+当前项目已应用于某高校科研数据研究项目支持中，相比于此前的解决方案，做到了：</p>
+<ul>
+<li>整合定向采集需求，防止重复开发工作，降低了高校项目中开发人员的工作量。</li>
+<li>GUI化的操作界面，满足基本数据清洗需求，降低使用者的专业知识门槛。</li>
+<li>成为高校项目的常规产品，丰富产品矩阵。并使产品持续优化扩展成为可能。</li>
+</ul>
+
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#1-%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D">1 项目介绍</a>
+<ul>
+<li><a href="#11-%E9%A1%B9%E7%9B%AE%E5%B1%9E%E6%80%A7">1.1 项目属性</a></li>
+</ul>
+</li>
+<li><a href="#12-%E9%A1%B9%E7%9B%AE%E6%8C%91%E6%88%98">1.2 项目挑战</a></li>
+<li><a href="#13-%E9%A1%B9%E7%9B%AE%E6%97%B6%E9%97%B4">1.3 项目时间</a></li>
+<li><a href="#2-%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1">2 项目设计</a>
+<ul>
+<li><a href="#21-%E5%89%8D%E8%A8%80">2.1 前言</a></li>
+<li><a href="#22-%E4%BB%BB%E5%8A%A1%E6%B5%81%E7%A8%8B%E7%9A%84%E5%BC%95%E5%AF%BC">2.2 任务流程的引导</a></li>
+<li><a href="#23-%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C%E5%B1%95%E7%A4%BA%E4%B8%8E%E4%BA%A4%E4%BA%92-masterdetail-interface">2.3 数据处理结果展示与交互 Master/Detail Interface</a></li>
+<li><a href="#24-%E8%BF%94%E5%9B%9E%E4%B8%8E%E6%92%A4%E9%94%80%E7%8A%B6%E6%80%81%E7%9A%84%E8%A1%A5%E5%85%85">2.4 返回与撤销状态的补充</a></li>
+</ul>
+</li>
+<li><a href="#3-%E8%AE%BE%E8%AE%A1%E4%BA%A7%E5%87%BA%E9%83%A8%E5%88%86">3 设计产出（部分）</a></li>
+<li><a href="#4-%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93">4 项目总结</a></li>
+</ul>
+</li>
+</ul>
+
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://JULYsun.github.io//post/可用性测试">
+              <h3 class="post-title">
+                workshop / 可用性测试
+              </h3>
+            </a>
+          </div>
+        
+
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: '209860801a25ff0d2cbf',
+    clientSecret: '8518d2cb612bfd9c6e4125b22ac0151ccb97bc5a  ',
+    repo: 'JULYsun.github.io',
+    owner: 'JULYsun',
+    admin: ['JULYsun'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | 
+  <a class="rss" href="https://JULYsun.github.io//atom.xml" target="_blank">RSS</a>
+</div>
+
+<script>
+  hljs.initHighlightingOnLoad()
+
+  let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+  // This should probably be throttled.
+  // Especially because it triggers during smooth scrolling.
+  // https://lodash.com/docs/4.17.10#throttle
+  // You could do like...
+  // window.addEventListener("scroll", () => {
+  //    _.throttle(doThatStuff, 100);
+  // });
+  // Only not doing it here to keep this Pen dependency-free.
+
+  window.addEventListener("scroll", event => {
+    let fromTop = window.scrollY;
+
+    mainNavLinks.forEach((link, index) => {
+      let section = document.getElementById(decodeURI(link.hash).substring(1));
+      let nextSection = null
+      if (mainNavLinks[index + 1]) {
+        nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+      }
+      console.log('section.offsetHeight', section.offsetHeight);
+      if (section.offsetTop <= fromTop) {
+        if (nextSection) {
+          if (nextSection.offsetTop > fromTop) {
+            link.classList.add("current");
+          } else {
+            link.classList.remove("current");    
+          }
+        } else {
+          link.classList.add("current");
+        }
+      } else {
+        link.classList.remove("current");
+      }
+    });
+  });
+
+</script>
+
+      </div>
+    </div>
+  </body>
+</html>
