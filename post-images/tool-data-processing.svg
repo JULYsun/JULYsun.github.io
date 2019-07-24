@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1828px" height="505px" viewBox="0 0 1828 505" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pic-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.09130794%" y1="45.4544914%" x2="99.1087159%" y2="53.8008322%" id="linearGradient-1">
+            <stop stop-color="#9364FF" offset="0%"></stop>
+            <stop stop-color="#1B2DFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1828" height="504"></rect>
+        <polygon id="path-4" points="0 0.443062047 57.5619232 0.443062047 57.5619232 56.9497373 0 56.9497373"></polygon>
+        <polygon id="path-6" points="0 0.0421511923 57.597256 0.0421511923 57.597256 60.3957382 0 60.3957382"></polygon>
+        <polygon id="path-8" points="0.466819796 0.445994188 58.4103095 0.445994188 58.4103095 58.4249878 0.466819796 58.4249878"></polygon>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-173.000000, -225.000000)">
+            <g id="pic-1" transform="translate(173.000000, 225.000000)">
+                <g id="路径复制">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <path d="M960,694.008518 C1442.95486,356.621526 1829.31732,188.621526 2119.08737,190.008518 C2408.85743,191.395509 2587.48059,191.395509 2654.95687,190.008518 L2654.95687,694.008518 L960,694.008518 Z" fill="#262FF9" mask="url(#mask-3)"></path>
+                    <path d="M133.043126,504 C615.997987,166.613009 1002.36044,-1.38699147 1292.1305,-2.841824e-14 C1581.90055,1.38699147 1760.52372,1.38699147 1828,0 L1828,504 L133.043126,504 Z" id="路径" fill-opacity="0.1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                    <path d="M-816,711.008518 C-333.045139,373.621526 53.317319,205.621526 343.087373,207.008518 C632.857428,208.395509 811.480595,208.395509 878.956874,207.008518 L878.956874,711.008518 L-816,711.008518 Z" fill-opacity="0.1" fill="#262FF9" mask="url(#mask-3)" transform="translate(31.478437, 459.004259) scale(-1, 1) translate(-31.478437, -459.004259) "></path>
+                    <path d="M2,504 C484.954861,166.613009 871.317319,-1.38699147 1161.08737,-2.841824e-14 C1450.85743,1.38699147 1629.48059,1.38699147 1696.95687,0 L1696.95687,504 L2,504 Z" id="路径" fill-opacity="0.1" fill="#FFFFFF" mask="url(#mask-3)" transform="translate(849.478437, 251.995741) scale(-1, 1) translate(-849.478437, -251.995741) "></path>
+                    <circle id="椭圆形" stroke="#FFFFFF" stroke-width="5" opacity="0.5" mask="url(#mask-3)" transform="translate(1669.000000, 93.000000) scale(-1, 1) translate(-1669.000000, -93.000000) " cx="1669" cy="93" r="11"></circle>
+                    <circle id="椭圆形复制" stroke="#FFFFFF" stroke-width="5" opacity="0.5" mask="url(#mask-3)" transform="translate(1457.500000, 420.500000) scale(-1, 1) translate(-1457.500000, -420.500000) " cx="1457.5" cy="420.5" r="8.5"></circle>
+                    <circle id="椭圆形复制-2" stroke="#FFFFFF" stroke-width="3" mask="url(#mask-3)" cx="251.5" cy="-0.5" r="19.5"></circle>
+                </g>
+                <g id="编组" transform="translate(49.000000, 181.000000)" fill="#FFFFFF" stroke="#979797">
+                    <circle id="椭圆形" cx="4" cy="4" r="4"></circle>
+                    <circle id="椭圆形复制-11" cx="4" cy="24" r="4"></circle>
+                    <circle id="椭圆形复制-20" cx="4" cy="44" r="4"></circle>
+                    <circle id="椭圆形复制-29" cx="4" cy="63" r="4"></circle>
+                    <circle id="椭圆形复制-3" cx="24" cy="4" r="4"></circle>
+                    <circle id="椭圆形复制-12" cx="24" cy="24" r="4"></circle>
+                    <circle id="椭圆形复制-21" cx="24" cy="44" r="4"></circle>
+                    <circle id="椭圆形复制-30" cx="24" cy="63" r="4"></circle>
+                    <circle id="椭圆形复制-4" cx="44" cy="4" r="4"></circle>
+                    <circle id="椭圆形复制-13" cx="44" cy="24" r="4"></circle>
+                    <circle id="椭圆形复制-22" cx="44" cy="44" r="4"></circle>
+                    <circle id="椭圆形复制-31" cx="44" cy="63" r="4"></circle>
+                    <circle id="椭圆形复制-5" cx="64" cy="4" r="4"></circle>
+                    <circle id="椭圆形复制-14" cx="64" cy="24" r="4"></circle>
+                    <circle id="椭圆形复制-23" cx="64" cy="44" r="4"></circle>
+                    <circle id="椭圆形复制-32" cx="64" cy="63" r="4"></circle>
+                    <circle id="椭圆形复制-6" cx="85" cy="4" r="4"></circle>
+                    <circle id="椭圆形复制-15" cx="85" cy="24" r="4"></circle>
+                    <circle id="椭圆形复制-24" cx="85" cy="44" r="4"></circle>
+                    <circle id="椭圆形复制-33" cx="85" cy="63" r="4"></circle>
+                    <circle id="椭圆形复制-7" cx="105" cy="4" r="4"></circle>
+                    <circle id="椭圆形复制-16" cx="105" cy="24" r="4"></circle>
+                    <circle id="椭圆形复制-25" cx="105" cy="44" r="4"></circle>
+                    <circle id="椭圆形复制-34" cx="105" cy="63" r="4"></circle>
+                    <circle id="椭圆形复制-8" cx="125" cy="4" r="4"></circle>
+                    <circle id="椭圆形复制-17" cx="125" cy="24" r="4"></circle>
+                    <circle id="椭圆形复制-26" cx="125" cy="44" r="4"></circle>
+                    <circle id="椭圆形复制-35" cx="125" cy="63" r="4"></circle>
+                    <circle id="椭圆形复制-9" cx="145" cy="4" r="4"></circle>
+                    <circle id="椭圆形复制-18" cx="145" cy="24" r="4"></circle>
+                    <circle id="椭圆形复制-27" cx="145" cy="44" r="4"></circle>
+                    <circle id="椭圆形复制-36" cx="145" cy="63" r="4"></circle>
+                    <circle id="椭圆形复制-10" cx="165" cy="4" r="4"></circle>
+                    <circle id="椭圆形复制-19" cx="165" cy="24" r="4"></circle>
+                    <circle id="椭圆形复制-28" cx="165" cy="44" r="4"></circle>
+                    <circle id="椭圆形复制-37" cx="165" cy="63" r="4"></circle>
+                </g>
+                <path d="M301,9 L1434.94221,410.159957" id="路径-2" stroke-opacity="0.5" stroke="#FFFFFF" opacity="0.5"></path>
+                <path d="M1658,127.112516 L1480.99337,388.382123" id="路径-3" stroke-opacity="0.5" stroke="#FFFFFF" opacity="0.5"></path>
+                <path d="M1637.08752,104 L218,504" id="路径-4" stroke-opacity="0.5" stroke="#FFFFFF" opacity="0.5"></path>
+                <text id="Data-Collection-and" font-family="PingFangSC-Medium, PingFang SC" font-size="48" font-weight="400" fill="#FFFFFF">
+                    <tspan x="691" y="269">Data Collection and Cleaning</tspan>
+                </text>
+                <g id="logo" transform="translate(485.000000, 188.000000)">
+                    <g id="Group-3">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M9.34730056,56.9497373 C4.18509804,56.9497373 0,52.7646393 0,47.6024367 L0,9.79011335 C0,4.62791082 4.18509804,0.442812785 9.34730056,0.442812785 L48.2146226,0.442812785 C53.3768251,0.442812785 57.5619232,4.62791082 57.5619232,9.79011335 C57.5619232,14.9523159 53.3768251,19.1374139 48.2146226,19.1374139 L18.6946011,19.1374139 L18.6946011,47.6024367 C18.6946011,52.7646393 14.5095031,56.9497373 9.34730056,56.9497373" id="Fill-1" fill="#FFFFFF" mask="url(#mask-5)"></path>
+                    </g>
+                    <g id="Group-6" transform="translate(0.000000, 76.000000)">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <g id="Clip-5"></g>
+                        <path d="M48.2499554,60.3957382 L9.34711362,60.3957382 C4.18491109,60.3957382 -0.000186946011,56.170553 -0.000186946011,50.9589041 L-0.000186946011,9.47898529 C-0.000186946011,4.26733638 4.18491109,0.0421511923 9.34711362,0.0421511923 C14.5093161,0.0421511923 18.6944142,4.26733638 18.6944142,9.47898529 L18.6944142,41.52207 L48.2499554,41.52207 C53.4121579,41.52207 57.597256,45.7472552 57.597256,50.9589041 C57.597256,56.170553 53.4121579,60.3957382 48.2499554,60.3957382" id="Fill-4" fill="#FFFFFF" mask="url(#mask-7)"></path>
+                    </g>
+                    <path d="M126.581052,136 L87.4189483,136 C82.2171771,136 78,131.785697 78,126.587472 C78,121.389246 82.2171771,117.174943 87.4189483,117.174943 L117.162103,117.174943 L117.162103,87.4125284 C117.162103,82.2143027 121.37928,78 126.581052,78 C131.782823,78 136,82.2143027 136,87.4125284 L136,126.587472 C136,131.785697 131.782823,136 126.581052,136" id="Fill-7" fill="#FFFFFF"></path>
+                    <g id="Group-11" transform="translate(76.000000, 0.000000)">
+                        <mask id="mask-9" fill="white">
+                            <use xlink:href="#path-8"></use>
+                        </mask>
+                        <g id="Clip-10"></g>
+                        <path d="M49.0011494,58.4249878 C43.8047839,58.4249878 39.5919893,54.2121932 39.5919893,49.0158277 L39.5919893,19.2640635 L9.87597989,19.2640635 C4.67961441,19.2640635 0.466819796,15.0512689 0.466819796,9.85490337 C0.466819796,4.65853789 4.67961441,0.445743278 9.87597989,0.445743278 L49.0011494,0.445743278 C54.1975149,0.445743278 58.4103095,4.65853789 58.4103095,9.85490337 L58.4103095,49.0158277 C58.4103095,54.2121932 54.1975149,58.4249878 49.0011494,58.4249878" id="Fill-9" fill="#FFD151" mask="url(#mask-9)"></path>
+                    </g>
+                    <path d="M66.3911876,102 C66.3117805,102 66.2323733,101.998725 66.1529662,101.996813 C63.5838011,101.93052 61.1534422,100.791437 59.4308698,98.8472825 L29.4187196,64.969912 C25.9466889,61.0516439 26.2486862,55.0050046 30.0927424,51.466006 C33.9374239,47.9270073 39.8679499,48.2329726 43.3393552,52.1531531 L66.7375779,78.5636954 L92.9894557,51.8006555 C96.6515633,48.0672414 102.590843,48.0672414 106.25295,51.8006555 C109.915683,55.5340696 109.915683,61.5889955 106.25295,65.3224096 L73.0226223,99.1991426 C71.2619095,100.994777 68.8753183,102 66.3911876,102" id="Fill-12" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

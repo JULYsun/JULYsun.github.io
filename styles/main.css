@@ -508,11 +508,11 @@ td {
   border-radius: 2px;
 }
 .post-detail .post .post-title {
-  font-size: 32px;
+  font-size: 28px;
   text-align: center;
   padding: 24px 0;
-  font-weight: 900;
-  letter-spacing: 0.02em;
+  font-weight: bold;
+  letter-spacing: 0.05em;
 }
 .post-detail .post .post-info {
   text-align: center;
@@ -537,7 +537,7 @@ td {
 .post-detail .post .post-content {
   width: 100%;
   flex-shrink: 0;
-  font-family: "Droid Serif", "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+  font-family: "Helvetica", "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
 }
 .post-detail .post .post-content a {
   color: rgba(0, 0, 0, 0.98);
@@ -551,13 +551,12 @@ td {
 }
 .post-detail .post .post-content img {
   display: block;
-  box-shadow: 0 0 30px #eee;
   max-width: 100%;
   border-radius: 2px;
-  margin: 24px auto;
+  margin: 60px 0px 80px 0px;
 }
 .post-detail .post .post-content p {
-  line-height: 1.62;
+  line-height: 1.75;
   margin-bottom: 1.12em;
   font-size: 16px;
   letter-spacing: 0.05em;
@@ -632,9 +631,9 @@ td {
 .post-detail .post .post-content h4,
 .post-detail .post .post-content h5,
 .post-detail .post .post-content h6 {
-  margin: 16px 0;
-  font-weight: 700;
-  padding-top: 16px;
+  margin: 24px 0;
+  font-weight: 500;
+  padding-top: 20px;
 }
 .post-detail .post .post-content h1 {
   font-size: 1.8em;
@@ -749,12 +748,12 @@ td {
 }
 .next-post .next {
   margin-bottom: 24px;
-  color: #343a40;
+  color: #ffd43b 8;
 }
 .next-post .post-title {
   font-size: 20px;
-  font-weight: bold;
-  letter-spacing: 0.02em;
+  font-weight: 500;
+  letter-spacing: 0.05em;
 }
 #gitalk-container,
 #disqus_thread {
@@ -950,7 +949,7 @@ td {
 }
 
       .main {
-        max-width: 780px;
+        max-width: 900px;
       }
     
       .post-container .post .post-title {
@@ -968,6 +967,14 @@ td {
     
       body {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
+      }
+    
+      body {
+        color: #666666;
+      }
+    
+      a {
+        color: rgba(0,0,0,.98) ;
       }
     
       a:hover {

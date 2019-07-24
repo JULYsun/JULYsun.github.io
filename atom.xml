@@ -2,14 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JULYsun.github.io/</id>
     <title>Julyyy.sun</title>
-    <updated>2019-07-22T10:48:51.017Z</updated>
+    <updated>2019-07-24T09:25:27.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://JULYsun.github.io/"/>
     <link rel="self" href="https://JULYsun.github.io//atom.xml"/>
-    <subtitle>No Tag Designer</subtitle>
+    <subtitle>Product Designer</subtitle>
     <logo>https://JULYsun.github.io//images/avatar.png</logo>
     <icon>https://JULYsun.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Julyyy.sun</rights>
+    <entry>
+        <title type="html"><![CDATA[项目纪实/上海幼儿入园信息登记]]></title>
+        <id>https://JULYsun.github.io//post/xiang-mu-ji-shi-shang-hai-you-er-ru-yuan-xin-xi-deng-ji</id>
+        <link href="https://JULYsun.github.io//post/xiang-mu-ji-shi-shang-hai-you-er-ru-yuan-xin-xi-deng-ji">
+        </link>
+        <updated>2019-07-23T14:49:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>2019年上海市幼儿入园信息系统  Team Members: 4 / Role: UX Designer</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2019年上海市幼儿入园信息系统  Team Members: 4 / Role: UX Designer</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[项目纪实 / 数据采集与清洗工具]]></title>
         <id>https://JULYsun.github.io//post/tool-data-processing</id>
