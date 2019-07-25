@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1877px" height="617px" viewBox="0 0 1877 617" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>信息登记</title>
+    <desc>Created with Sketch.</desc>
+    <g id="信息登记" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#63C9FE" x="31" y="51" width="320" height="68" rx="34"></rect>
+        <text id="登录-/-关联基本信息" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#FFFFFF">
+            <tspan x="62.676" y="95">登录 / 关联基本信息</tspan>
+        </text>
+        <rect id="矩形" fill="#63C9FE" x="431" y="51" width="320" height="68" rx="34"></rect>
+        <rect id="矩形复制-3" fill="#63C9FE" x="831" y="51" width="257" height="68" rx="34"></rect>
+        <rect id="矩形复制-4" fill="#63C9FE" x="1188" y="51" width="213" height="68" rx="34"></rect>
+        <rect id="矩形复制" fill="#58DDDF" x="252" y="376" width="320" height="68"></rect>
+        <rect id="矩形复制-2" fill="#FFCC7C" x="628" y="209" width="280" height="68"></rect>
+        <text id="关联幼儿信息" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#FFFFFF">
+            <tspan x="507" y="95">关联幼儿信息</tspan>
+        </text>
+        <text id="编辑预登记信息" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#FFFFFF">
+            <tspan x="859.5" y="95">编辑预登记信息</tspan>
+        </text>
+        <text id="提交预登记" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#FFFFFF">
+            <tspan x="1224.5" y="95">提交预登记</tspan>
+        </text>
+        <text id="是否已关联幼儿信息" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#FFFFFF">
+            <tspan x="286" y="420">是否已关联幼儿信息</tspan>
+        </text>
+        <text id="是否预登记时段" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#FFFFFF">
+            <tspan x="670" y="253">是否预登记时段</tspan>
+        </text>
+        <rect id="矩形复制-2" fill="#FFCC7C" x="1224" y="209" width="280" height="68" rx="34"></rect>
+        <rect id="矩形复制-5" fill="#FFCC7C" x="1570" y="209" width="250" height="68" rx="34"></rect>
+        <text id="生成标准登记表单" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#FFFFFF">
+            <tspan x="1252" y="253">生成标准登记表单</tspan>
+        </text>
+        <text id="生成预登记码" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#FFFFFF">
+            <tspan x="1611" y="253">生成预登记码</tspan>
+        </text>
+        <path d="M176,119 L176,410 L252,410" id="路径-5" stroke="#BDBBBB" stroke-width="2" stroke-linecap="square" stroke-dasharray="1,4"></path>
+        <path d="M597,119 L597,243 L627,242" id="路径-6" stroke="#BDBBBB" stroke-width="2" stroke-linecap="square" stroke-dasharray="1,4"></path>
+        <path d="M908,242 L961,242 L961,117" id="路径-7" stroke="#BDBBBB" stroke-width="2" stroke-linecap="square" stroke-dasharray="1,4"></path>
+        <text id="Y" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#6D7278">
+            <tspan x="983.232" y="191">Y</tspan>
+        </text>
+        <text id="N" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#6D7278">
+            <tspan x="411.434" y="190">N</tspan>
+        </text>
+        <text id="Y" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#6D7278">
+            <tspan x="607.232" y="406">Y</tspan>
+        </text>
+        <text id="N" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#6D7278">
+            <tspan x="787.434" y="406">N</tspan>
+        </text>
+        <path d="M1095,85.5 L1188,85.5" id="路径-8" stroke="#BDBBBB" stroke-width="2" stroke-linecap="square" stroke-dasharray="1,4"></path>
+        <path d="M1297.5,119 L1297.5,209" id="路径-9" stroke="#BDBBBB" stroke-width="2" stroke-linecap="square" stroke-dasharray="1,4"></path>
+        <path d="M1504,243.5 L1570,243.5" id="路径-10" stroke="#BDBBBB" stroke-width="2" stroke-linecap="square" stroke-dasharray="1,4"></path>
+        <path d="M386,376 L386,85 L431,85" id="路径-11" stroke="#BDBBBB" stroke-width="2" stroke-linecap="square" stroke-dasharray="1,4"></path>
+        <path d="M576,410 L597,410 L597,243" id="路径-12" stroke="#BDBBBB" stroke-width="2" stroke-linecap="square" stroke-dasharray="1,4"></path>
+        <rect id="矩形复制-4" fill="#A3ABB4" x="662" y="515" width="213" height="68" rx="34"></rect>
+        <text id="提示-政务咨询" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#FFFFFF">
+            <tspan x="679.838" y="559">提示 政务咨询</tspan>
+        </text>
+        <path d="M768.5,277 L768.5,515" id="路径-13" stroke="#BDBBBB" stroke-width="2" stroke-linecap="square" stroke-dasharray="1,4"></path>
+        <text id="用户流程-/-信息预登记阶段" font-family="PingFangSC-Regular, PingFang SC" font-size="30" font-weight="normal" fill="#6D7278">
+            <tspan x="1467.01" y="559">用户流程 / 信息预登记阶段</tspan>
+        </text>
+    </g>
+</svg>
