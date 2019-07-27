@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2011px" height="516px" viewBox="0 0 2011 516" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#63C9FE" x="42" y="54" width="747" height="80"></rect>
+        <rect id="矩形复制-2" fill="#63C9FE" x="864" y="54" width="509" height="80"></rect>
+        <rect id="矩形复制-4" fill="#63C9FE" x="1461" y="54" width="509" height="80"></rect>
+        <rect id="矩形复制" stroke="#63C9FE" x="42.5" y="54.5" width="746" height="338"></rect>
+        <rect id="矩形复制-3" stroke="#63C9FE" x="864.5" y="54.5" width="508" height="403"></rect>
+        <rect id="矩形复制-5" stroke="#63C9FE" x="1461.5" y="54.5" width="508" height="403"></rect>
+        <text id="招录结果统计" font-family="PingFangSC-Medium, PingFang SC" font-size="28" font-weight="400" fill="#FFFFFF">
+            <tspan x="89" y="104">招录结果统计</tspan>
+        </text>
+        <text id="预登记信息管理" font-family="PingFangSC-Medium, PingFang SC" font-size="28" font-weight="400" fill="#FFFFFF">
+            <tspan x="914.5" y="104">预登记信息管理</tspan>
+        </text>
+        <text id="系统管理" font-family="PingFangSC-Medium, PingFang SC" font-size="28" font-weight="400" fill="#FFFFFF">
+            <tspan x="1502.5" y="104">系统管理</tspan>
+        </text>
+        <text id="全市幼儿登记情况" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="91" y="202">全市幼儿登记情况</tspan>
+        </text>
+        <text id="新增信息" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="903" y="268">新增信息</tspan>
+        </text>
+        <text id="角色管理" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="1500" y="268">角色管理</tspan>
+        </text>
+        <text id="各区幼儿登记情况" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="91" y="268">各区幼儿登记情况</tspan>
+        </text>
+        <text id="信息核验" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="903" y="202">信息核验</tspan>
+        </text>
+        <text id="帐号管理" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="1500" y="202">帐号管理</tspan>
+        </text>
+        <text id="单条添加-/-批量添加" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.6">
+            <tspan x="1058" y="268">单条添加 / 批量添加</tspan>
+        </text>
+        <text id="条件查询-/-模糊搜索" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.6">
+            <tspan x="1058" y="334">条件查询 / 模糊搜索</tspan>
+        </text>
+        <text id="信息修改-/-信息作废" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.6">
+            <tspan x="1058" y="400">信息修改 / 信息作废</tspan>
+        </text>
+        <text id="幼儿登记与招生录取（各区接口反馈）数据可" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="92" y="334">幼儿登记与招生录取（各区接口反馈）数据可视化</tspan>
+        </text>
+        <text id="信息查询" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="903" y="334">信息查询</tspan>
+        </text>
+        <text id="操作日志管理" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="1500" y="334">操作日志管理</tspan>
+        </text>
+        <text id="信息编辑" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="903" y="403">信息编辑</tspan>
+        </text>
+        <text id="各区招录数据接口管理" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="1500" y="403">各区招录数据接口管理</tspan>
+        </text>
+        <text id="后台管理系统功能" font-family="PingFangSC-Medium, PingFang SC" font-size="30" font-weight="400" fill="#6D7278">
+            <tspan x="42" y="469">后台管理系统功能</tspan>
+        </text>
+    </g>
+</svg>

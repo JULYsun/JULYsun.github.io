@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>项目纪实 / 上海幼儿入园信息登记 | Julyyy.sun</title>
 <meta name="description" content="Product Designer" />
-<link rel="shortcut icon" href="https://JULYsun.github.io//favicon.ico?v=1564067920225">
+<link rel="shortcut icon" href="https://JULYsun.github.io//favicon.ico?v=1564220745185">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://JULYsun.github.io//styles/main.css">
@@ -20,7 +20,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://JULYsun.github.io/">
-  <img class="avatar" src="https://JULYsun.github.io//images/avatar.png?v=1564067920225" alt="">
+  <img class="avatar" src="https://JULYsun.github.io//images/avatar.png?v=1564220745185" alt="">
   </a>
   <h1 class="site-title">
     Julyyy.sun
@@ -87,6 +87,8 @@
               
             </div>
             
+              <img class="post-feature-image" src="https://JULYsun.github.io//post-images/xiang-mu-ji-shi-shang-hai-you-er-ru-yuan-xin-xi-deng-ji.svg" alt="">
+            
             <div class="post-content-wrapper">
               <div class="post-content">
                 <p>2019年上海市幼儿入园信息系统  Team Members: 4 / Role: UX Designer</p>
@@ -106,8 +108,30 @@
 <h2 id="4-设计内容">4 设计内容</h2>
 <h3 id="41-入园登记网站">4.1 入园登记网站</h3>
 <p>根据与客户的沟通和对往年幼儿入园过程的了解，我们共同确定了用户任务流程和网站信息结构。<br>
-<img src="https://JULYsun.github.io//post-images/1564042134273.svg" alt=""></p>
-<hr>
+<img src="https://JULYsun.github.io//post-images/1564042134273.svg" alt=""><br>
+入园登记网站的主要任务是往年纸质信息登记表的电子化，在这一过程中，我发现了一些交互问题并提出了解决方案。<br>
+<strong>表单简化</strong><br>
+纸质表单需要填表人自主阅读、筛选，而由于电子表单的程序判断和校验功能，同时遵循删减「业务价值低用户价值低」的原则，我总结了如下几种简化方式：</p>
+<ol>
+<li>重合的内容。如身份证号码可以直接反应出生日期和性别：自动填充；</li>
+<li>联级选项。后续题目跟随用户选择发生变化；</li>
+<li>默认值。在填写繁琐内内容时，适当的默认值可以节省用户时间和操作负担：本地户口幼儿的户籍地与居住地默认一致。<br>
+<img src="https://JULYsun.github.io//post-images/1564189262278.svg" alt=""><br>
+<strong>表单的对齐方式</strong><br>
+表单的标签和输入框主要有顶对齐、左对齐、右对齐三种对齐方式。<br>
+<img src="https://JULYsun.github.io//post-images/1564195356851.svg" alt=""><br>
+<img src="https://JULYsun.github.io//post-images/1564193858283.png" alt=""><br>
+考虑到表单输入框的多样性（文本、单选、下拉、五级联级选择）和充足的横向空间供不同长度内容组合排列，使用顶对齐更加符合应用场景。<br>
+<strong>下拉选择与单选</strong><br>
+在表单组件中，下拉选择和单选具有相似的使用场景，在比较两者的使用情况后，我们得到了以下区别以指导使用。<br>
+<img src="https://JULYsun.github.io//post-images/1564200347548.svg" alt=""><br>
+<img src="https://JULYsun.github.io//post-images/1564203340061.png" alt=""></li>
+</ol>
+<h3 id="42-入园后台管理系统">4.2 入园后台管理系统</h3>
+<p>后台管理系统主要分为招录结果统计、预登记信息管理、权限接口等系统管理三个部分，功能模块梳理如下。招录结果统计的数据可视化（深色）模式可以兼容大屏长时间展示，数据模式可以查看详细最新数据。<br>
+<img src="https://JULYsun.github.io//post-images/1564220188904.svg" alt=""><br>
+<img src="https://JULYsun.github.io//post-images/1564220681542.png" alt=""><br>
+<img src="https://JULYsun.github.io//post-images/1564220740238.png" alt=""></p>
 
               </div>
               <div class="toc-container">
@@ -120,6 +144,7 @@
 <li><a href="#4-%E8%AE%BE%E8%AE%A1%E5%86%85%E5%AE%B9">4 设计内容</a>
 <ul>
 <li><a href="#41-%E5%85%A5%E5%9B%AD%E7%99%BB%E8%AE%B0%E7%BD%91%E7%AB%99">4.1 入园登记网站</a></li>
+<li><a href="#42-%E5%85%A5%E5%9B%AD%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F">4.2 入园后台管理系统</a></li>
 </ul>
 </li>
 </ul>

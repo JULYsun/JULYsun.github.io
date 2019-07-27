@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1828px" height="504px" viewBox="0 0 1828 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pic-1复制</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="46.1991678%" x2="100%" y2="54.1583565%" id="linearGradient-1">
+            <stop stop-color="#58DDDF" offset="0%"></stop>
+            <stop stop-color="#00A3B6" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1828" height="504"></rect>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-173.000000, -1055.000000)">
+            <g id="pic-1复制" transform="translate(173.000000, 1055.000000)">
+                <g id="路径复制">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <path d="M2,286.210968 C132.970825,350.507197 319.970825,371.939273 563,350.507197 C927.543762,318.359083 1265.02987,36.3115585 1480.99337,119.996422 C1696.95687,203.681285 1654.24942,380.35808 1760.73595,409.605119 C1867.22247,438.852158 1907.36384,542.687024 1867.68192,579.849666 C1828,617.012309 -146.294404,762.066072 -96.0047236,556.286634 C-62.4782703,419.100343 -29.8100291,329.075121 2,286.210968 Z" id="路径-16" fill="#00A4BA" mask="url(#mask-3)"></path>
+                    <path d="M2,179.383138 C197.710336,252 377.897644,276.205621 542.561923,252 C789.558342,215.691569 1037.52808,67.8952104 1214.23113,45.973058 C1390.93418,24.0509057 1528.03295,16.9914822 1528.03295,-51 C1528.03295,-96.3276548 993.596259,-102.303621 -75.2771317,-68.9278998 L2,179.383138 Z" id="路径-5" fill-opacity="0.3" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                </g>
+                <text id="Shanghai-Preschool-R" font-family="PingFangSC-Medium, PingFang SC" font-size="48" font-weight="400" fill="#FFFFFF">
+                    <tspan x="471" y="275">Shanghai Preschool Registration System</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

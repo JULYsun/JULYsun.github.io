@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2264px" height="306px" viewBox="0 0 2264 306" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="unchecked" transform="translate(290.000000, 143.000000)" fill="#FFFFFF" stroke="#D5D8DE">
+            <circle id="radio_unchecked" cx="17" cy="17" r="16.5"></circle>
+        </g>
+        <g id="checked" transform="translate(55.000000, 143.000000)" fill="#58DDDF">
+            <path d="M17,34 C7.61115925,34 0,26.3888407 0,17 C0,7.61115925 7.61115925,0 17,0 C26.3888407,0 34,7.61115925 34,17 C34,26.3888407 26.3888407,34 17,34 Z M17,21.8571429 C19.6825259,21.8571429 21.8571429,19.6825259 21.8571429,17 C21.8571429,14.3174741 19.6825259,12.1428571 17,12.1428571 C14.3174741,12.1428571 12.1428571,14.3174741 12.1428571,17 C12.1428571,19.6825259 14.3174741,21.8571429 17,21.8571429 Z" id="radio_checked"></path>
+        </g>
+        <text id="选项1" font-family="PingFangSC-Regular, PingFang SC" font-size="30" font-weight="normal" fill="#6D7278">
+            <tspan x="117.97" y="171">选项1</tspan>
+        </text>
+        <text id="选项2" font-family="PingFangSC-Regular, PingFang SC" font-size="30" font-weight="normal" fill="#6D7278">
+            <tspan x="347" y="171">选项2</tspan>
+        </text>
+        <text id="单选-Radio" font-family="PingFangSC-Medium, PingFang SC" font-size="30" font-weight="400" fill="#6D7278">
+            <tspan x="491.2" y="100">单选 Radio</tspan>
+        </text>
+        <text id="下拉选择-Select" font-family="PingFangSC-Medium, PingFang SC" font-size="30" font-weight="400" fill="#6D7278">
+            <tspan x="1644.72" y="100">下拉选择 Select</tspan>
+        </text>
+        <text id="--选项长度少（有限的横向空间）---各" font-family="PingFangSC-Regular, PingFang SC" font-size="30" font-weight="normal" line-spacing="50" fill="#6D7278">
+            <tspan x="493" y="170">- 选项长度少（有限的横向空间）</tspan>
+            <tspan x="493" y="220">- 各选项长度相似 （方便用户阅读）</tspan>
+        </text>
+        <text id="--选项个数较多（结合纵向滚动条）--" font-family="PingFangSC-Regular, PingFang SC" font-size="30" font-weight="normal" line-spacing="50" fill="#6D7278">
+            <tspan x="1644" y="170">- 选项个数较多（结合纵向滚动条）</tspan>
+            <tspan x="1644" y="220">- 各选项长度有差异</tspan>
+        </text>
+        <g id="编组" transform="translate(1217.000000, 139.000000)">
+            <rect id="input" stroke="#C0C4CC" fill="#FFFFFF" x="0.5" y="0.5" width="329" height="58" rx="4"></rect>
+            <polygon id="icon_arrow" fill="#909399" points="304 27 310 34 316 27"></polygon>
+            <text id="选择书籍" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" fill="#6D7278">
+                <tspan x="18" y="38">选择书籍</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
