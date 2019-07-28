@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="315px" viewBox="0 0 800 315" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Model-Widget" font-family="PingFangSC-Regular, PingFang SC" font-size="26" font-weight="normal" fill="#D5D5D5">
+            <tspan x="42" y="70">Model Widget</tspan>
+        </text>
+        <text id="说明气泡" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="95" y="105">说明气泡</tspan>
+        </text>
+        <path d="M120.485281,177.292633 L128.24863,169.523567 L128.455844,169.523567 L249,169.523567 C252.037566,169.523567 254.5,167.061133 254.5,164.023567 L254.5,144 C254.5,140.962434 252.037566,138.5 249,138.5 L101,138.5 C97.9624339,138.5 95.5,140.962434 95.5,144 L95.5,164.023567 C95.5,167.061133 97.9624339,169.523567 101,169.523567 L112.721933,169.523567 L120.485281,177.292633 Z" id="Combined-Shape" stroke="#DBDBDB" fill="#F5F5F5"></path>
+        <path d="M300.485281,177.292633 L308.24863,169.523567 L308.455844,169.523567 L429,169.523567 C432.037566,169.523567 434.5,167.061133 434.5,164.023567 L434.5,144 C434.5,140.962434 432.037566,138.5 429,138.5 L281,138.5 C277.962434,138.5 275.5,140.962434 275.5,144 L275.5,164.023567 C275.5,167.061133 277.962434,169.523567 281,169.523567 L292.721933,169.523567 L300.485281,177.292633 Z" id="Combined-Shape-Copy" stroke="#DBDBDB" fill="#F5F5F5"></path>
+        <text id="这里是一条提醒消息-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="285" y="158">这里是一条提醒消息</tspan>
+        </text>
+        <text id="这里是一条提醒消息" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="105" y="158">这里是一条提醒消息</tspan>
+        </text>
+        <g id="#spacing-left-C645A637-A87A-4A1C-A9FF-D64C0E787295-D74B1E13-5AB5-4546-A368-DC0A32EDF6FE" transform="translate(263.000000, 154.000000)">
+            <rect id="line" fill="#50E3C2" x="12" y="2" width="10" height="1"></rect>
+            <rect id="start" fill="#50E3C2" x="12" y="0" width="1" height="5"></rect>
+            <rect id="end" fill="#50E3C2" x="21" y="0" width="1" height="5"></rect>
+            <rect id="box" fill="#50E3C2" x="0" y="8" width="35" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#50E3C2" transform="translate(18.000000, 9.000000) rotate(-45.000000) translate(-18.000000, -9.000000) " x="15" y="6" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="23">10px</tspan>
+            </text>
+        </g>
+        <circle id="Oval-Copy-7" fill="#3583F5" cx="57" cy="112" r="10"></circle>
+        <circle id="Oval-Copy-9" fill="#F0403C" cx="57" cy="198" r="10"></circle>
+        <circle id="Oval-Copy-10" fill="#50C95E" cx="57" cy="155" r="10"></circle>
+        <path d="M99.3574062,231.547274 L103.097328,235.277806 L103.097328,241 C103.097328,244.037566 105.559761,246.5 108.597328,246.5 L257,246.5 C260.037566,246.5 262.5,244.037566 262.5,241 L262.5,221 C262.5,217.962434 260.037566,215.5 257,215.5 L108.597328,215.5 C105.559761,215.5 103.097328,217.962434 103.097328,221 L103.097328,225.692756 L99.3574062,229.423289 C99.3560721,229.424621 99.3560721,229.424621 99.3547402,229.425955 C98.7696904,230.012477 98.770884,230.962224 99.3574062,231.547274 Z" id="Combined-Shape-Copy" stroke="#F0403C" fill-opacity="0.8" fill="#F0403C"></path>
+        <text id="这里是一条错误消息" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="117" y="235">这里是一条错误消息</tspan>
+        </text>
+        <circle id="Oval-Copy-12" fill="#F5A623" cx="57" cy="241" r="10"></circle>
+        <text id="Toast-3000ms" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="518" y="105">Toast   3000ms</tspan>
+        </text>
+        <rect id="矩形" stroke="#DBDBDB" fill="#F5F5F5" x="518.5" y="135.5" width="131" height="31" rx="8"></rect>
+        <text id="这里是一条提示信息" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="530" y="156">这里是一条提示信息</tspan>
+        </text>
+        <rect id="矩形" stroke="#F5A623" fill-opacity="0.8" fill="#F5A623" x="518.5" y="188.5" width="131" height="31" rx="8"></rect>
+        <text id="这里是一条警示信息" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="530" y="209">这里是一条警示信息</tspan>
+        </text>
+        <rect id="矩形" stroke="#F0403C" fill-opacity="0.8" fill="#F0403C" x="518.5" y="241.5" width="131" height="31" rx="8"></rect>
+        <text id="这里是一条错误信息" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="530" y="262">这里是一条错误信息</tspan>
+        </text>
+    </g>
+</svg>

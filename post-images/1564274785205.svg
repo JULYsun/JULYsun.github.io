@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="1009px" viewBox="0 0 800 1009" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="表单控件" font-family="PingFangSC-Regular, PingFang SC" font-size="26" font-weight="normal" fill="#D5D5D5">
+            <tspan x="30" y="67">表单控件</tspan>
+        </text>
+        <text id="Normal状态" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="54" y="119">Normal状态</tspan>
+        </text>
+        <text id="Normal状态-Copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="379" y="119">Normal状态</tspan>
+        </text>
+        <text id="填写状态-/主色边框" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="54" y="220">填写状态 /主色边框</tspan>
+        </text>
+        <text id="填写状态-/主色边框-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="381" y="220">填写状态 /主色边框</tspan>
+        </text>
+        <text id="填写状态-/Disabled状态" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="54" y="326">填写状态 /Disabled状态</tspan>
+        </text>
+        <text id="填写状态-/顶对齐输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="54" y="432">填写状态 /顶对齐输入框</tspan>
+        </text>
+        <text id="填写状态-/Disabled状态-Copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="381" y="326">填写状态 /Disabled状态</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#9B9B9B" fill="#FFFFFF" x="132.5" y="133.5" width="166" height="35" rx="6"></rect>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="54" y="156">文本输入框</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#9B9B9B" fill="#FFFFFF" x="56.5" y="473.5" width="166" height="35" rx="6"></rect>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="56" y="464">文本输入框</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#2DA8AE" fill="#FFFFFF" x="132.5" y="234.5" width="166" height="35" rx="6"></rect>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="54" y="257">文本输入框</tspan>
+        </text>
+        <rect id="Rectangle" stroke-opacity="0.4" stroke="#000000" fill="#E8E8E8" x="132.5" y="340.5" width="166" height="35" rx="6"></rect>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="54" y="363">文本输入框</tspan>
+        </text>
+        <text id="不可更改内容" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="143" y="363">不可更改内容</tspan>
+        </text>
+        <text id="输入内容" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="143" y="257">输入内容</tspan>
+        </text>
+        <circle id="Oval" stroke="#979797" fill="#FFFFFF" cx="385" cy="151" r="5.5"></circle>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="399" y="156">文本输入框</tspan>
+        </text>
+        <g id="#spacing-horizontal-D3CCC712-5386-4347-8C4E-0450E783FBDD-781592E6-870A-4D73-947B-014B11920593" transform="translate(381.000000, 149.000000)">
+            <rect id="line" fill="#50E3C2" x="10" y="2" width="8" height="1"></rect>
+            <rect id="start" fill="#50E3C2" x="10" y="0" width="1" height="5"></rect>
+            <rect id="end" fill="#50E3C2" x="17" y="0" width="1" height="5"></rect>
+            <rect id="box" fill="#50E3C2" x="0" y="8" width="29" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#50E3C2" transform="translate(15.000000, 9.000000) rotate(-45.000000) translate(-15.000000, -9.000000) " x="12" y="6" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="23">8px</tspan>
+            </text>
+        </g>
+        <circle id="Oval" stroke="#2DA8AE" fill="#FFFFFF" cx="386" cy="248" r="5.5"></circle>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="400" y="253">文本输入框</tspan>
+        </text>
+        <circle id="Oval" stroke="#2DA8AE" fill="#2DA8AE" cx="386" cy="280" r="5.5"></circle>
+        <circle id="Oval" fill="#FFFFFF" cx="386" cy="280" r="2"></circle>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="400" y="285">文本输入框</tspan>
+        </text>
+        <circle id="Oval" stroke-opacity="0.4" stroke="#000000" fill-opacity="0.1" fill="#000000" cx="386" cy="357" r="5.5"></circle>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.2">
+            <tspan x="400" y="362">文本输入框</tspan>
+        </text>
+        <circle id="Oval" fill-opacity="0.2" fill="#000000" cx="386" cy="389" r="6"></circle>
+        <circle id="Oval" fill="#FFFFFF" cx="386" cy="389" r="2"></circle>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.2">
+            <tspan x="400" y="394">文本输入框</tspan>
+        </text>
+        <g id="#spacing-vertical-BB626397-97A8-4809-BE53-D554559C4205-1DE9B7A7-F91F-4C2E-AEC9-86E892465527" transform="translate(24.000000, 460.000000)">
+            <rect id="line" fill="#50E3C2" x="36" y="9" width="1" height="4"></rect>
+            <rect id="start" fill="#50E3C2" x="34" y="9" width="5" height="1"></rect>
+            <rect id="end" fill="#50E3C2" x="34" y="12" width="5" height="1"></rect>
+            <rect id="box" fill="#50E3C2" x="0" y="0" width="29" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#50E3C2" transform="translate(28.000000, 11.000000) rotate(-45.000000) translate(-28.000000, -11.000000) " x="25" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="15">4px</tspan>
+            </text>
+        </g>
+        <text id="Normal状态-Copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="611" y="119">Normal状态</tspan>
+        </text>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="631" y="156">文本输入框</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="611.5" y="145.5" width="11" height="11" rx="4"></rect>
+        <g id="#spacing-horizontal-AD5814E3-B9E5-4E4F-BDDA-5F17682551B6-26C98551-4D8B-4B59-8EAD-F2756428C440" transform="translate(613.000000, 149.000000)">
+            <rect id="line" fill="#50E3C2" x="10" y="2" width="8" height="1"></rect>
+            <rect id="start" fill="#50E3C2" x="10" y="0" width="1" height="5"></rect>
+            <rect id="end" fill="#50E3C2" x="17" y="0" width="1" height="5"></rect>
+            <rect id="box" fill="#50E3C2" x="0" y="8" width="29" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#50E3C2" transform="translate(15.000000, 9.000000) rotate(-45.000000) translate(-15.000000, -9.000000) " x="12" y="6" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="23">8px</tspan>
+            </text>
+        </g>
+        <text id="填写状态-/主色边框-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="611" y="220">填写状态 /主色边框</tspan>
+        </text>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="631" y="253">文本输入框</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#2DA8AE" fill="#FFFFFF" x="611.5" y="242.5" width="11" height="11" rx="4"></rect>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="631" y="282">文本输入框</tspan>
+        </text>
+        <g id="seled" transform="translate(611.000000, 271.000000)">
+            <rect id="Rectangle" stroke="#2DA8AE" fill="#2DA8AE" x="0.5" y="0.5" width="11" height="11" rx="4"></rect>
+            <polyline id="Path-2" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" points="3 6.83376142 5.22130069 8.80622095 9 4"></polyline>
+        </g>
+        <text id="填写状态-/Disabled状态-Copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="611" y="326">填写状态 /Disabled状态</tspan>
+        </text>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.2">
+            <tspan x="631" y="360">文本输入框</tspan>
+        </text>
+        <rect id="Rectangle" stroke-opacity="0.4" stroke="#000000" fill-opacity="0.1" fill="#000000" x="611.5" y="349.5" width="11" height="11" rx="4"></rect>
+        <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.2">
+            <tspan x="631" y="389">文本输入框</tspan>
+        </text>
+        <rect id="Rectangle" fill-opacity="0.2" fill="#000000" x="611" y="378" width="12" height="12" rx="4"></rect>
+        <polyline id="Path-2" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" points="614 384.948014 616.221301 387 620 382"></polyline>
+        <text id="Switch-/-off" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="369" y="432">Switch / off</tspan>
+        </text>
+        <text id="Switch-/-on" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="504" y="432">Switch / on</tspan>
+        </text>
+        <text id="设置项" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="368" y="472">设置项</tspan>
+        </text>
+        <text id="设置项-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+            <tspan x="504" y="472">设置项</tspan>
+        </text>
+        <g id="switch-1" transform="translate(418.000000, 454.000000)" stroke="#000000" stroke-opacity="0.2">
+            <rect id="Rectangle" fill-opacity="0.1" fill="#000000" x="0.5" y="1.5" width="39" height="23" rx="11.5"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="13" cy="13" r="12.5"></circle>
+        </g>
+        <g id="switch-2" transform="translate(557.000000, 454.000000)">
+            <rect id="Rectangle" stroke-opacity="0.2" stroke="#000000" fill="#2DA8AE" x="0.5" y="1.5" width="39" height="23" rx="11.5"></rect>
+            <circle id="Oval" stroke="#24868B" fill="#FFFFFF" cx="27" cy="13" r="12.5"></circle>
+        </g>
+        <text id="下拉菜单" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="56" y="565">下拉菜单</tspan>
+        </text>
+        <g id="Group" transform="translate(56.000000, 595.000000)">
+            <rect id="Rectangle" stroke="#9B9B9B" fill="#FFFFFF" x="78.5" y="0.5" width="166" height="35" rx="6"></rect>
+            <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+                <tspan x="0" y="23">文本输入框</tspan>
+            </text>
+            <polyline id="Path-3" stroke="#979797" points="225 16 230 21 235 16"></polyline>
+        </g>
+        <g id="Group" transform="translate(56.000000, 693.000000)">
+            <rect id="Rectangle" stroke="#2DA8AE" fill="#FFFFFF" x="78.5" y="0.5" width="166" height="35" rx="6"></rect>
+            <text id="文本输入框" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+                <tspan x="0" y="23">文本输入框</tspan>
+            </text>
+            <polyline id="Path-3" stroke="#979797" transform="translate(230.000000, 18.500000) scale(1, -1) translate(-230.000000, -18.500000) " points="225 16 230 21 235 16"></polyline>
+        </g>
+        <g id="#spacing-right-3BFB716E-28AC-4ED2-B102-A1EE1D213925-51A9368A-EA82-4448-9B43-B3F36FE90FE9" transform="translate(279.000000, 612.000000)">
+            <rect id="line" fill="#50E3C2" x="12" y="2" width="10" height="1"></rect>
+            <rect id="start" fill="#50E3C2" x="12" y="0" width="1" height="5"></rect>
+            <rect id="end" fill="#50E3C2" x="21" y="0" width="1" height="5"></rect>
+            <rect id="box" fill="#50E3C2" x="0" y="8" width="35" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#50E3C2" transform="translate(18.000000, 9.000000) rotate(-45.000000) translate(-18.000000, -9.000000) " x="15" y="6" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="23">10px</tspan>
+            </text>
+        </g>
+        <g id="#spacing-vertical-BD744B9A-B7D7-4530-B146-607CF2CBABFA-513E84DB-A5B5-40B0-AE9D-4A77483A3C29" transform="translate(182.000000, 721.000000)">
+            <rect id="line" fill="#50E3C2" x="36" y="8" width="1" height="6"></rect>
+            <rect id="start" fill="#50E3C2" x="34" y="8" width="5" height="1"></rect>
+            <rect id="end" fill="#50E3C2" x="34" y="13" width="5" height="1"></rect>
+            <rect id="box" fill="#50E3C2" x="0" y="0" width="29" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#50E3C2" transform="translate(28.000000, 11.000000) rotate(-45.000000) translate(-28.000000, -11.000000) " x="25" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="15">6px</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle" stroke-opacity="0.1" stroke="#000000" fill="#FFFFFF" x="134.5" y="735.5" width="166" height="122" rx="6"></rect>
+        <text id="选项一" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="151" y="762">选项一</tspan>
+        </text>
+        <rect id="Rectangle" fill-opacity="0.06" fill="#000000" x="134" y="779" width="167" height="32"></rect>
+        <text id="选项二" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="151" y="799">选项二</tspan>
+        </text>
+        <text id="选项三" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="151" y="836">选项三</tspan>
+        </text>
+        <g id="Group" transform="translate(375.000000, 766.000000)">
+            <rect id="Rectangle" stroke="#2DA8AE" fill="#FFFFFF" x="0.5" y="44.5" width="166" height="35" rx="6"></rect>
+            <text id="联级多选控件" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#797979">
+                <tspan x="0" y="15">联级多选控件</tspan>
+            </text>
+            <polyline id="Path-3" stroke="#979797" transform="translate(152.000000, 62.500000) scale(1, -1) translate(-152.000000, -62.500000) " points="147 60 152 65 157 60"></polyline>
+        </g>
+        <rect id="Rectangle" stroke-opacity="0.1" stroke="#000000" fill="#FFFFFF" x="375.5" y="852.5" width="333" height="122" rx="6"></rect>
+        <text id="选项一" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="392" y="879">选项一</tspan>
+        </text>
+        <rect id="Rectangle" fill-opacity="0.06" fill="#000000" x="375" y="896" width="167" height="32"></rect>
+        <polyline id="Path-3" stroke="#979797" transform="translate(528.000000, 913.000000) scale(1, -1) rotate(-90.000000) translate(-528.000000, -913.000000) " points="524 911 528 915 532 911"></polyline>
+        <path d="M542,853 L542,974" id="Line-2" stroke-opacity="0.1" stroke="#000000" stroke-linecap="square"></path>
+        <text id="选项二" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="392" y="916">选项二</tspan>
+        </text>
+        <text id="选项三" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="392" y="953">选项三</tspan>
+        </text>
+        <text id="选项一" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="562" y="879">选项一</tspan>
+        </text>
+        <text id="选项二" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="562" y="916">选项二</tspan>
+        </text>
+        <rect id="Rectangle" fill-opacity="0.06" fill="#000000" x="542" y="932" width="167" height="32"></rect>
+        <text id="选项三" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="562" y="953">选项三</tspan>
+        </text>
+        <text id="单选" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="379" y="559">单选</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="379.5" y="581.5" width="75" height="27" rx="5"></rect>
+        <text id="单选选项1" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="390" y="599">单选选项1</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#2DA8AE" fill="#FFFFFF" x="471.5" y="581.5" width="75" height="27" rx="5"></rect>
+        <text id="单选选项2" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#2DA8AE">
+            <tspan x="481" y="599">单选选项2</tspan>
+        </text>
+        <rect id="Rectangle" stroke-opacity="0.2" stroke="#000000" fill="#FFFFFF" x="563.5" y="581.5" width="75" height="27" rx="5"></rect>
+        <text id="单选选项1" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000" fill-opacity="0.2">
+            <tspan x="574" y="599">单选选项1</tspan>
+        </text>
+        <text id="多选" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#797979">
+            <tspan x="379" y="659">多选</tspan>
+        </text>
+        <g id="编组" transform="translate(379.000000, 675.000000)">
+            <rect id="Rectangle" stroke="#2DA8AE" fill="#FFFFFF" x="0.5" y="0.5" width="83" height="27" rx="5"></rect>
+            <polyline id="Path-2" stroke="#2DA8AE" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" points="8 13.8337614 10.2213007 15.8062209 14 11"></polyline>
+            <text id="单选选项2" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#2DA8AE">
+                <tspan x="18" y="18">单选选项2</tspan>
+            </text>
+        </g>
+        <g id="#spacing-horizontal-E5C20EFA-EA19-4EA6-B59B-45536FE896A5-3BA71616-C549-4F12-B2D5-3A0A63781D34" transform="translate(446.000000, 593.000000)">
+            <rect id="line" fill="#50E3C2" x="9" y="2" width="16" height="1"></rect>
+            <rect id="start" fill="#50E3C2" x="9" y="0" width="1" height="5"></rect>
+            <rect id="end" fill="#50E3C2" x="24" y="0" width="1" height="5"></rect>
+            <rect id="box" fill="#50E3C2" x="0" y="8" width="35" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#50E3C2" transform="translate(18.000000, 9.000000) rotate(-45.000000) translate(-18.000000, -9.000000) " x="15" y="6" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="23">16px</tspan>
+            </text>
+        </g>
+        <g id="#spacing-right-28D51BB6-45F5-47EE-94B5-13E898841403-96E1FE19-46D6-4A60-9838-63DC01E46971" transform="translate(441.000000, 687.000000)">
+            <rect id="line" fill="#50E3C2" x="12" y="2" width="10" height="1"></rect>
+            <rect id="start" fill="#50E3C2" x="12" y="0" width="1" height="5"></rect>
+            <rect id="end" fill="#50E3C2" x="21" y="0" width="1" height="5"></rect>
+            <rect id="box" fill="#50E3C2" x="0" y="8" width="35" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#50E3C2" transform="translate(18.000000, 9.000000) rotate(-45.000000) translate(-18.000000, -9.000000) " x="15" y="6" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="23">10px</tspan>
+            </text>
+        </g>
+        <g id="#spacing-left-C3AEC3A6-E472-472D-89C4-BAC3E75E2D4A-96E1FE19-46D6-4A60-9838-63DC01E46971" transform="translate(369.000000, 686.000000)">
+            <rect id="line" fill="#50E3C2" x="10" y="2" width="8" height="1"></rect>
+            <rect id="start" fill="#50E3C2" x="10" y="0" width="1" height="5"></rect>
+            <rect id="end" fill="#50E3C2" x="17" y="0" width="1" height="5"></rect>
+            <rect id="box" fill="#50E3C2" x="0" y="8" width="29" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#50E3C2" transform="translate(15.000000, 9.000000) rotate(-45.000000) translate(-15.000000, -9.000000) " x="12" y="6" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="23">8px</tspan>
+            </text>
+        </g>
+        <polyline id="Path-2" stroke="#2DA8AE" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" points="685 873.537617 687.961734 876 693 870"></polyline>
+    </g>
+</svg>

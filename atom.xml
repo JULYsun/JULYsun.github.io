@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JULYsun.github.io/</id>
     <title>Julyyy.sun</title>
-    <updated>2019-07-27T11:22:40.307Z</updated>
+    <updated>2019-07-28T01:09:17.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://JULYsun.github.io/"/>
     <link rel="self" href="https://JULYsun.github.io//atom.xml"/>
@@ -20,6 +20,13 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>2019年上海市幼儿入园信息系统  Team Members: 4 / Role: UX Designer</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[项目纪实 / 数据平台后台模块化实践]]></title>
+        <id>https://JULYsun.github.io//post/DPL</id>
+        <link href="https://JULYsun.github.io//post/DPL">
+        </link>
+        <updated>2019-07-22T08:22:29.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[项目纪实 / 数据采集与清洗工具]]></title>

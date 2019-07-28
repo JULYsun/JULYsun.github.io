@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="991px" height="237px" viewBox="0 0 991 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形复制-8" fill="#B3E8FD" x="17" y="50" width="129" height="43" rx="21.5"></rect>
+        <rect id="矩形复制-9" fill="#B3E8FD" x="196" y="50" width="129" height="43" rx="21.5"></rect>
+        <rect id="矩形复制-10" fill="#B3E8FD" x="375" y="50" width="129" height="43" rx="21.5"></rect>
+        <rect id="矩形复制-11" fill="#B3E8FD" x="554" y="50" width="153" height="43" rx="21.5"></rect>
+        <rect id="矩形复制-12" fill-opacity="0.2" fill="#6D7278" x="757" y="50" width="153" height="43" rx="21.5"></rect>
+        <text id="功能模块" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+            <tspan x="42" y="79">功能模块</tspan>
+        </text>
+        <text id="梳理" font-family="PingFangSC-Light, PingFang SC" font-size="18" font-weight="300" fill="#000000" fill-opacity="0.5">
+            <tspan x="210" y="35">梳理</tspan>
+        </text>
+        <text id="设计" font-family="PingFangSC-Light, PingFang SC" font-size="18" font-weight="300" fill="#000000" fill-opacity="0.5">
+            <tspan x="739" y="35">设计</tspan>
+        </text>
+        <text id="组件" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+            <tspan x="241" y="79">组件</tspan>
+        </text>
+        <text id="控件" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+            <tspan x="420" y="79">控件</tspan>
+        </text>
+        <text id="尺寸与栅格" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+            <tspan x="583" y="79">尺寸与栅格</tspan>
+        </text>
+        <text id="文字与颜色" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+            <tspan x="786" y="79">文字与颜色</tspan>
+        </text>
+        <text id="表格（增删改查）-详情信息-文章管理-帐" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#000000" fill-opacity="0.5">
+            <tspan x="26" y="127">表格（增删改查）</tspan>
+            <tspan x="26" y="148">详情信息</tspan>
+            <tspan x="26" y="169">文章管理</tspan>
+            <tspan x="26" y="190">帐号管理</tspan>
+            <tspan x="26" y="211">登录注册</tspan>
+            <tspan x="26" y="232">…</tspan>
+        </text>
+        <text id="导航栏-模态框-指示/通知-…" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#000000" fill-opacity="0.5">
+            <tspan x="216" y="127">导航栏</tspan>
+            <tspan x="216" y="148">模态框</tspan>
+            <tspan x="216" y="169">指示/通知</tspan>
+            <tspan x="216" y="190">…</tspan>
+        </text>
+        <text id="操作相关-表单相关-页码器-标签导航-…" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#000000" fill-opacity="0.5">
+            <tspan x="388" y="127">操作相关</tspan>
+            <tspan x="388" y="148">表单相关</tspan>
+            <tspan x="388" y="169">页码器</tspan>
+            <tspan x="388" y="190">标签导航</tspan>
+            <tspan x="388" y="211">…</tspan>
+        </text>
+        <text id="后台系统功能性强，-色彩稳定单一-可以体" font-family="PingFangSC-Regular, PingFang SC" font-size="15" font-weight="normal" fill="#000000" fill-opacity="0.5">
+            <tspan x="776" y="127">后台系统功能性强，</tspan>
+            <tspan x="776" y="148">色彩稳定单一</tspan>
+            <tspan x="776" y="169">可以体现在其它层次的设计中</tspan>
+        </text>
+        <g id="编组" transform="translate(17.000000, 23.938369)" fill="#A6E1E2">
+            <polygon id="矩形" points="0 5.06163115 179 5.06163115 179 9.06163115 0 9.06163115"></polygon>
+            <polygon id="路径-17" points="169.250971 9.06163115 169.250971 0 188 9.06163115"></polygon>
+        </g>
+        <g id="编组" transform="translate(874.000000, 28.938369) scale(-1, 1) translate(-874.000000, -28.938369) translate(780.000000, 23.938369)" fill="#DBD3FF">
+            <polygon id="矩形" points="0 5.06163115 179 5.06163115 179 9.06163115 0 9.06163115"></polygon>
+            <polygon id="路径-17" points="169.250971 9.06163115 169.250971 0 188 9.06163115"></polygon>
+        </g>
+    </g>
+</svg>

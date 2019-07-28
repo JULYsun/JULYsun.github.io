@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>About | Julyyy.sun</title>
+<title>项目纪实 / 数据平台后台模块化实践 | Julyyy.sun</title>
 <meta name="description" content="Product Designer" />
 <link rel="shortcut icon" href="https://JULYsun.github.io//favicon.ico?v=1564276154973">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -75,11 +75,11 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              About
+              项目纪实 / 数据平台后台模块化实践
             </h2>
             <div class="post-info">
               <span>
-                2019/07/20
+                2019/07/22
               </span>
               <span>
                 1 min read
@@ -89,26 +89,75 @@
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <p>我是孙佳，一名设计师，而定语可以是视觉、产品、交互，也可以是B端、网页、工具。喜欢接触新的工具、领域和生活实践，喜欢探究和触达新的技能点的设计漫游者。作为一名非科班设计师和公司内独立设计师，关注产品的商业与技术限制，熟悉部门间合作。</p>
-<h2 id="工作经历">工作经历</h2>
+                <blockquote>
+<p>原子设计是一个2013年由 Brad Forst 提出的设计方法论，通过五种不同层次的组合，创建一个有层次、有计划的界面系统。原子设计理念（Atomic Design）被应用于多个优秀的设计组件库（DPL）建设指导。</p>
+</blockquote>
+<h2 id="1-项目介绍">1 项目介绍</h2>
+<p>数据后台的模块化设计是作为数据之家日常设计工作的一次优化和整合。本次实践基于对日常工作流程的观察和整合。</p>
+<h3 id="11-项目属性">1.1 项目属性</h3>
 <ul>
-<li><strong>2018.5-至今</strong><br>
-数据之家产品设计师，完成多个高校社科大数据平台建设项目和2019年上海学前教育信息化项目。工作包括：UX 设计、视觉设计。</li>
-<li><strong>2017.3-2018.4</strong><br>
-三沸堂生物科技有限公司产品设计师。工作包括：包装设计、视觉设计、产品供应管理等。</li>
+<li>内部工作优化项目</li>
 </ul>
-<h2 id="教育经历">教育经历</h2>
+<h3 id="12-项目挑战">1.2 项目挑战</h3>
 <ul>
-<li>2012-2016 南京大学环境学院 环境科学专业</li>
+<li>整合现有成果，帮助后台管理统一化、产品化、品牌化</li>
+<li>系统化思维的应用</li>
 </ul>
+<h2 id="2-项目设计">2  项目设计</h2>
+<h3 id="21-发现问题">2.1 发现问题</h3>
+<p>在大部分项目中，设计主要负担两个阶段的工作：1.Demo稿，直接提供给销售人员，主要用于前期沟通和演示；2. 开发设计稿，与前端开发人员沟通，用于项目产品实现。<br>
+<img src="https://JULYsun.github.io//post-images/1564241032210.svg" alt=""><br>
+主要有效率和品牌两方面可以优化的空间：<br>
+效率空间：</p>
+<ul>
+<li>缺乏统一的设计模式，相似的功能设计方案质量参差不齐，提高迭代成本。</li>
+<li>开发时间紧时，会直接套用近似的设计，效果难以控制。</li>
+<li>Demo页面制作由于需求还未确定套用过往项目导致与正式项目视觉差异较大。</li>
+</ul>
+<p>品牌空间：</p>
+<ul>
+<li>项目设计风格一味迎合需求方，缺乏产品的品牌辨识度。</li>
+<li>销售部门缺乏关于管理后台独立更具品牌化的案例材料。</li>
+</ul>
+<h3 id="22-设计目标与过程">2.2 设计目标与过程</h3>
+<p>首先需要确定模块设计抽象到的层级，再确定内容和迭代计划。设计过程遵循：发散-组织-扩展-细化的水平思维方式（lateral thinking）。</p>
+<ul>
+<li>浏览过往的后台系统功能，统计常规模块</li>
+<li>总结常用模块的设计需求，关注已有的不能满足需求的设计</li>
+<li>整理已有的功能模块、组件控件等，必要的重设计</li>
+<li>根据模块补充拓展新的设计内容</li>
+<li>从新项目中抽象模块，并完成迭代维护</li>
+</ul>
+<p><img src="https://JULYsun.github.io//post-images/1564247271727.svg" alt=""><br>
+由于面向组织类用户的特殊性，产出很难直接体现明显的品牌化特征，而完成产品品牌化实践一方面可以在客户接洽时展示专业性，也可以帮助销售人员对外直接宣传。</p>
+<h3 id="23-设计结果">2.3 设计结果</h3>
+<p>后台设计场景中，基于功能需要，组件应当减少渐变等装饰性元素设计，注重对比关系便于认知。在模块整理和拓展时也参考了其他 DLP 和设计思路分享。<br>
+<img src="https://JULYsun.github.io//post-images/1564249080026.svg" alt=""><br>
+<img src="https://JULYsun.github.io//post-images/1564274785205.svg" alt=""><br>
+<img src="https://JULYsun.github.io//post-images/1564274787984.svg" alt=""><br>
+<img src="https://JULYsun.github.io//post-images/1564274790562.svg" alt=""></p>
+<h3 id="3-项目总结">3 项目总结</h3>
+<p>本次的设计组件整合，对于设计工作本身而言可以节省页面设计时间，保证在各种项目要求下产出的一致性，在面向需求方提交的方案中保持视觉的品牌化。</p>
 
               </div>
               <div class="toc-container">
                 <ul class="markdownIt-TOC">
 <li>
 <ul>
-<li><a href="#%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86">工作经历</a></li>
-<li><a href="#%E6%95%99%E8%82%B2%E7%BB%8F%E5%8E%86">教育经历</a></li>
+<li><a href="#1-%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D">1 项目介绍</a>
+<ul>
+<li><a href="#11-%E9%A1%B9%E7%9B%AE%E5%B1%9E%E6%80%A7">1.1 项目属性</a></li>
+<li><a href="#12-%E9%A1%B9%E7%9B%AE%E6%8C%91%E6%88%98">1.2 项目挑战</a></li>
+</ul>
+</li>
+<li><a href="#2-%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1">2  项目设计</a>
+<ul>
+<li><a href="#21-%E5%8F%91%E7%8E%B0%E9%97%AE%E9%A2%98">2.1 发现问题</a></li>
+<li><a href="#22-%E8%AE%BE%E8%AE%A1%E7%9B%AE%E6%A0%87%E4%B8%8E%E8%BF%87%E7%A8%8B">2.2 设计目标与过程</a></li>
+<li><a href="#23-%E8%AE%BE%E8%AE%A1%E7%BB%93%E6%9E%9C">2.3 设计结果</a></li>
+<li><a href="#3-%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93">3 项目总结</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -118,6 +167,15 @@
           </article>
         </div>
 
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://JULYsun.github.io//post/tool-data-processing">
+              <h3 class="post-title">
+                项目纪实 / 数据采集与清洗工具
+              </h3>
+            </a>
+          </div>
         
 
         

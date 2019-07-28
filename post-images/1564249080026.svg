@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="860px" viewBox="0 0 800 860" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill-opacity="0.8" fill="#000000" cx="47" cy="133" r="10"></circle>
+        <circle id="Oval-Copy" fill-opacity="0.6" fill="#000000" cx="47" cy="172" r="10"></circle>
+        <circle id="Oval-Copy-2" fill-opacity="0.4" fill="#000000" cx="47" cy="211" r="10"></circle>
+        <circle id="Oval-Copy-3" fill-opacity="0.2" fill="#000000" cx="47" cy="250" r="10"></circle>
+        <circle id="Oval-Copy-4" fill-opacity="0.1" fill="#000000" cx="47" cy="289" r="10"></circle>
+        <g id="#properties-right-03463C3F-1032-41EB-8AE0-3D0DD8335B06" transform="translate(59.000000, 122.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="102" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #000000 80%</tspan>
+            </text>
+        </g>
+        <g id="#properties-right-BCAB9EA0-A30B-4DC1-8B5A-79105A11EF5C" transform="translate(59.000000, 161.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="102" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #000000 60%</tspan>
+            </text>
+        </g>
+        <g id="#properties-right-AA12282B-1D70-4AC6-8BA1-9C0E7383F6D4" transform="translate(59.000000, 200.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="102" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #000000 40%</tspan>
+            </text>
+        </g>
+        <g id="#properties-right-7DB715E9-CA18-4FC1-8A98-1BE8F90006FF" transform="translate(59.000000, 239.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="102" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #000000 20%</tspan>
+            </text>
+        </g>
+        <g id="#properties-right-EA8357FE-95C5-4E80-BE3A-36AC9A1A1324" transform="translate(59.000000, 278.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="102" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #000000 10%</tspan>
+            </text>
+        </g>
+        <circle id="Oval" fill="#2E2C3E" cx="281" cy="133" r="13"></circle>
+        <circle id="Oval-Copy-5" fill="#2E2C3E" cx="281" cy="174" r="13"></circle>
+        <circle id="Oval-Copy-8" fill="#2E2C3E" cx="281" cy="215" r="13"></circle>
+        <circle id="Oval-Copy-13" fill="#2E2C3E" cx="281" cy="261" r="13"></circle>
+        <circle id="Oval" fill="#FFFFFF" cx="281" cy="133" r="10"></circle>
+        <circle id="Oval-Copy-6" fill-opacity="0.7" fill="#FFFFFF" cx="281" cy="174" r="10"></circle>
+        <circle id="Oval-Copy-11" fill-opacity="0.4" fill="#FFFFFF" cx="281" cy="215" r="10"></circle>
+        <circle id="Oval-Copy-14" fill-opacity="0.2" fill="#FFFFFF" cx="281" cy="261" r="10"></circle>
+        <circle id="Oval-Copy-7" fill="#3583F5" cx="523" cy="132" r="10"></circle>
+        <circle id="Oval-Copy-9" fill="#F0403C" cx="523" cy="218" r="10"></circle>
+        <circle id="Oval-Copy-10" fill="#50C95E" cx="523" cy="175" r="10"></circle>
+        <circle id="Oval-Copy-12" fill="#F5A623" cx="523" cy="261" r="10"></circle>
+        <g id="#properties-right-EF6A1E8A-377F-411C-97F1-9DC33C0A044E" transform="translate(293.000000, 122.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="110" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #FFFFFF 100%</tspan>
+            </text>
+        </g>
+        <g id="#properties-right-A541DDF9-13C8-4EB2-84A0-F2F55A7C9BEF" transform="translate(293.000000, 204.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="103" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #FFFFFF 40%</tspan>
+            </text>
+        </g>
+        <g id="#properties-right-E4DF4911-C0DE-4E74-B748-EEEDFF05CE5E" transform="translate(293.000000, 163.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="103" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #FFFFFF 70%</tspan>
+            </text>
+        </g>
+        <text id="Alpha-色彩" font-family="PingFangSC-Regular, PingFang SC" font-size="26" font-weight="normal" fill="#D5D5D5">
+            <tspan x="31" y="64">Alpha 色彩</tspan>
+        </text>
+        <g id="#properties-right-E6BFC913-B795-4169-A265-1F3B95CB1AB8" transform="translate(535.000000, 208.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="111" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #F0403C 100%</tspan>
+            </text>
+        </g>
+        <g id="#properties-right-A541DDF9-13C8-4EB2-84A0-F2F55A7C9BEF" transform="translate(537.000000, 121.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="109" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #3583F5 100%</tspan>
+            </text>
+        </g>
+        <g id="#properties-right-4E99FA02-DBAA-424F-ABF2-036C84B64050" transform="translate(535.000000, 164.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="111" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #50C95E 100%</tspan>
+            </text>
+        </g>
+        <g id="#properties-right-ACAC6239-D44F-492F-A06C-50BB9C222C92" transform="translate(536.000000, 251.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="110" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #F5A623 100%</tspan>
+            </text>
+        </g>
+        <text id="内容文字色" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#D5D5D5">
+            <tspan x="35" y="106">内容文字色</tspan>
+        </text>
+        <text id="信息辅助色" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#D5D5D5">
+            <tspan x="514" y="98">信息辅助色</tspan>
+        </text>
+        <text id="基于-Alpha-配色方案" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#D5D5D5">
+            <tspan x="35" y="349">基于 Alpha 配色方案</tspan>
+        </text>
+        <text id="分割线色彩" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#D5D5D5">
+            <tspan x="35" y="494">分割线色彩</tspan>
+        </text>
+        <text id="Normal" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#D5D5D5">
+            <tspan x="654" y="137">Normal</tspan>
+        </text>
+        <text id="由于后台/B端业务的从属性，一般以已有品" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#D5D5D5">
+            <tspan x="35" y="370">由于后台/B端业务的从属性，一般以已有品牌色为中心，以突出内容的同系色/中性色为配色路径</tspan>
+        </text>
+        <text id="Alert" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#D5D5D5">
+            <tspan x="654" y="223">Alert</tspan>
+        </text>
+        <text id="Priority" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#D5D5D5">
+            <tspan x="654" y="180">Priority</tspan>
+        </text>
+        <text id="Warning" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#D5D5D5">
+            <tspan x="654" y="266">Warning</tspan>
+        </text>
+        <g id="#properties-right-ACAC6239-D44F-492F-A06C-50BB9C222C92" transform="translate(535.000000, 248.000000)"></g>
+        <rect id="Rectangle" fill="#036579" x="39" y="391" width="38" height="38"></rect>
+        <rect id="Rectangle-Copy-2" fill="#2DA8AE" x="96" y="391" width="38" height="38"></rect>
+        <rect id="Rectangle-Copy-3" fill-opacity="0.7" fill="#2DA8AE" x="134" y="391" width="38" height="38"></rect>
+        <rect id="Rectangle-Copy-4" fill-opacity="0.4" fill="#2DA8AE" x="172" y="391" width="38" height="38"></rect>
+        <rect id="Rectangle-Copy-5" fill-opacity="0.2" fill="#2DA8AE" x="210" y="391" width="38" height="38"></rect>
+        <text id="品牌色" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#797979">
+            <tspan x="41" y="444">品牌色</tspan>
+        </text>
+        <text id="主导色" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#797979">
+            <tspan x="99" y="444">主导色</tspan>
+        </text>
+        <text id="70%" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#797979">
+            <tspan x="139" y="444">70%</tspan>
+        </text>
+        <text id="40%" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#797979">
+            <tspan x="179" y="444">40%</tspan>
+        </text>
+        <text id="20%" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#797979">
+            <tspan x="218" y="444">20%</tspan>
+        </text>
+        <text id="当品牌色过深（偏黑色）或者过浅（偏白色）" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#797979">
+            <tspan x="330" y="406">当品牌色过深（偏黑色）或者过浅（偏白色），都不适用于主导色，</tspan>
+            <tspan x="330" y="420">此时需要调整 HBS 值另外选取主导色。</tspan>
+        </text>
+        <g id="#properties-right-65CB9E72-7D1D-4D19-B438-9143E5CAF905" transform="translate(293.000000, 250.000000)">
+            <rect id="box" fill="#F5A623" x="4" y="0" width="103" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(5.000000, 11.000000) rotate(-45.000000) translate(-5.000000, -11.000000) " x="2" y="8" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8" y="15">fill: #FFFFFF 20%</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle" fill-opacity="0.06" fill="#000000" x="35" y="520" width="180" height="1"></rect>
+        <rect id="Rectangle-Copy-7" fill-opacity="0.1" fill="#000000" x="35" y="553" width="180" height="1"></rect>
+        <g id="#properties-right-E11B15E8-20B9-42B0-9856-CDB0C585F626" transform="translate(215.000000, 520.000000)">
+            <rect id="box" fill="#F5A623" x="6" y="-10" width="95" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(7.000000, 1.000000) rotate(-45.000000) translate(-7.000000, -1.000000) " x="4" y="-2" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="10" y="5">fill: #000000 6%</tspan>
+            </text>
+        </g>
+        <g id="#properties-right-1ACB3E4D-0C4F-4F10-B8BE-48FB28A775ED" transform="translate(215.000000, 553.000000)">
+            <rect id="box" fill="#F5A623" x="6" y="-10" width="102" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(7.000000, 1.000000) rotate(-45.000000) translate(-7.000000, -1.000000) " x="4" y="-2" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="10" y="5">fill: #000000 10%</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle" fill-opacity="0.9" fill="#000000" x="392" y="496" width="314" height="79"></rect>
+        <rect id="Rectangle-Copy-8" fill-opacity="0.2" fill="#FFFFFF" x="393" y="520" width="180" height="1"></rect>
+        <g id="#properties-right-3858CAA2-2181-408D-850A-51F7633C3710" transform="translate(573.000000, 520.000000)">
+            <rect id="box" fill="#F5A623" x="6" y="-10" width="103" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(7.000000, 1.000000) rotate(-45.000000) translate(-7.000000, -1.000000) " x="4" y="-2" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="10" y="5">fill: #FFFFFF 20%</tspan>
+            </text>
+        </g>
+        <g id="编组-2" transform="translate(284.000000, 651.000000)">
+            <g id="编组">
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.8" x="0" y="0" width="216" height="165"></rect>
+                <rect id="Rectangle" fill-opacity="0.1" fill="#000000" x="0" y="0" width="216" height="40"></rect>
+                <text id="应用菜单-1" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.8">
+                    <tspan x="50" y="26">应用菜单 1 </tspan>
+                </text>
+                <text id="应用菜单-2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.6">
+                    <tspan x="48" y="69">应用菜单 2 </tspan>
+                </text>
+                <text id="应用菜单-3" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.4">
+                    <tspan x="50" y="111">应用菜单 3</tspan>
+                </text>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="28" y="13" width="16" height="16"></rect>
+                <path d="M36,14 C32.134375,14 29,17.134375 29,21 C29,24.865625 32.134375,28 36,28 C39.865625,28 43,24.865625 43,21 C43,17.134375 39.865625,14 36,14 Z M36,26.8125 C32.790625,26.8125 30.1875,24.209375 30.1875,21 C30.1875,17.790625 32.790625,15.1875 36,15.1875 C39.209375,15.1875 41.8125,17.790625 41.8125,21 C41.8125,24.209375 39.209375,26.8125 36,26.8125 Z M39.1,17.6234375 C38.975,17.575 38.8390625,17.578125 38.7171875,17.63125 L34.4828125,19.484375 L32.63125,23.71875 C32.575,23.846875 32.575,23.9921875 32.63125,24.1203125 C32.684375,24.2421875 32.7828125,24.3375 32.9078125,24.3859375 C32.9671875,24.409375 33.028125,24.4203125 33.090625,24.4203125 C33.159375,24.4203125 33.2265625,24.40625 33.290625,24.378125 L37.525,22.525 L39.3765625,18.290625 C39.4328125,18.1625 39.4328125,18.0171875 39.3765625,17.8890625 C39.321875,17.765625 39.2234375,17.671875 39.1,17.6234375 L39.1,17.6234375 Z M37.0125,21.35 L37.421875,21.759375 L36.759375,22.421875 L36.35,22.0125 L33.9375,23.06875 L34.9921875,20.65625 L34.59375,20.25625 L35.25625,19.59375 L35.6546875,19.9921875 L38.06875,18.9375 L37.0125,21.35 Z M35.25625,19.59375 L34.59375,20.25625 L34.9921875,20.65625 L36.35,22.0125 L36.759375,22.421875 L37.421875,21.759375 L37.0125,21.35 L35.65625,19.9921875 L35.25625,19.59375 Z" id="Shape" fill-opacity="0.8" fill="#000000" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill-opacity="0.600000024" fill="#FFFFFF" opacity="0" x="28" y="56" width="16" height="16"></rect>
+                <path d="M36,57 C32.134375,57 29,60.134375 29,64 C29,67.865625 32.134375,71 36,71 C39.865625,71 43,67.865625 43,64 C43,60.134375 39.865625,57 36,57 Z M36,69.8125 C32.790625,69.8125 30.1875,67.209375 30.1875,64 C30.1875,60.790625 32.790625,58.1875 36,58.1875 C39.209375,58.1875 41.8125,60.790625 41.8125,64 C41.8125,67.209375 39.209375,69.8125 36,69.8125 Z M39.1,60.6234375 C38.975,60.575 38.8390625,60.578125 38.7171875,60.63125 L34.4828125,62.484375 L32.63125,66.71875 C32.575,66.846875 32.575,66.9921875 32.63125,67.1203125 C32.684375,67.2421875 32.7828125,67.3375 32.9078125,67.3859375 C32.9671875,67.409375 33.028125,67.4203125 33.090625,67.4203125 C33.159375,67.4203125 33.2265625,67.40625 33.290625,67.378125 L37.525,65.525 L39.3765625,61.290625 C39.4328125,61.1625 39.4328125,61.0171875 39.3765625,60.8890625 C39.321875,60.765625 39.2234375,60.671875 39.1,60.6234375 L39.1,60.6234375 Z M37.0125,64.35 L37.421875,64.759375 L36.759375,65.421875 L36.35,65.0125 L33.9375,66.06875 L34.9921875,63.65625 L34.59375,63.25625 L35.25625,62.59375 L35.6546875,62.9921875 L38.06875,61.9375 L37.0125,64.35 Z M35.25625,62.59375 L34.59375,63.25625 L34.9921875,63.65625 L36.35,65.0125 L36.759375,65.421875 L37.421875,64.759375 L37.0125,64.35 L35.65625,62.9921875 L35.25625,62.59375 Z" id="Shape" fill-opacity="0.6" fill="#000000" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill-opacity="0.300000012" fill="#FFFFFF" opacity="0" x="28" y="98" width="16" height="16"></rect>
+                <path d="M36,99 C32.134375,99 29,102.134375 29,106 C29,109.865625 32.134375,113 36,113 C39.865625,113 43,109.865625 43,106 C43,102.134375 39.865625,99 36,99 Z M36,111.8125 C32.790625,111.8125 30.1875,109.209375 30.1875,106 C30.1875,102.790625 32.790625,100.1875 36,100.1875 C39.209375,100.1875 41.8125,102.790625 41.8125,106 C41.8125,109.209375 39.209375,111.8125 36,111.8125 Z M39.1,102.623437 C38.975,102.575 38.8390625,102.578125 38.7171875,102.63125 L34.4828125,104.484375 L32.63125,108.71875 C32.575,108.846875 32.575,108.992188 32.63125,109.120312 C32.684375,109.242188 32.7828125,109.3375 32.9078125,109.385937 C32.9671875,109.409375 33.028125,109.420312 33.090625,109.420312 C33.159375,109.420312 33.2265625,109.40625 33.290625,109.378125 L37.525,107.525 L39.3765625,103.290625 C39.4328125,103.1625 39.4328125,103.017188 39.3765625,102.889062 C39.321875,102.765625 39.2234375,102.671875 39.1,102.623437 L39.1,102.623437 Z M37.0125,106.35 L37.421875,106.759375 L36.759375,107.421875 L36.35,107.0125 L33.9375,108.06875 L34.9921875,105.65625 L34.59375,105.25625 L35.25625,104.59375 L35.6546875,104.992188 L38.06875,103.9375 L37.0125,106.35 Z M35.25625,104.59375 L34.59375,105.25625 L34.9921875,105.65625 L36.35,107.0125 L36.759375,107.421875 L37.421875,106.759375 L37.0125,106.35 L35.65625,104.992188 L35.25625,104.59375 Z" id="Shape" fill-opacity="0.4" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+            <g id="compass" transform="translate(28.000000, 13.000000)"></g>
+            <g id="compass" transform="translate(28.000000, 56.000000)"></g>
+            <g id="compass" transform="translate(28.000000, 98.000000)"></g>
+        </g>
+        <g id="编组" transform="translate(36.000000, 651.000000)">
+            <rect id="Rectangle" fill-opacity="0.6" fill="#000000" opacity="0.8" x="0" y="0" width="216" height="165"></rect>
+            <rect id="Rectangle" fill-opacity="0.4" fill="#FFFFFF" x="0" y="0" width="216" height="40"></rect>
+            <text id="应用菜单-1" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="50" y="26">应用菜单 1 </tspan>
+            </text>
+            <text id="应用菜单-2" opacity="0.7" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="48" y="69">应用菜单 2 </tspan>
+            </text>
+            <text id="应用菜单-3" opacity="0.4" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="50" y="111">应用菜单 3</tspan>
+            </text>
+            <g id="compass" transform="translate(28.000000, 13.000000)" fill="#FFFFFF">
+                <rect id="Rectangle" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M8,1 C4.134375,1 1,4.134375 1,8 C1,11.865625 4.134375,15 8,15 C11.865625,15 15,11.865625 15,8 C15,4.134375 11.865625,1 8,1 Z M8,13.8125 C4.790625,13.8125 2.1875,11.209375 2.1875,8 C2.1875,4.790625 4.790625,2.1875 8,2.1875 C11.209375,2.1875 13.8125,4.790625 13.8125,8 C13.8125,11.209375 11.209375,13.8125 8,13.8125 Z M11.1,4.6234375 C10.975,4.575 10.8390625,4.578125 10.7171875,4.63125 L6.4828125,6.484375 L4.63125,10.71875 C4.575,10.846875 4.575,10.9921875 4.63125,11.1203125 C4.684375,11.2421875 4.7828125,11.3375 4.9078125,11.3859375 C4.9671875,11.409375 5.028125,11.4203125 5.090625,11.4203125 C5.159375,11.4203125 5.2265625,11.40625 5.290625,11.378125 L9.525,9.525 L11.3765625,5.290625 C11.4328125,5.1625 11.4328125,5.0171875 11.3765625,4.8890625 C11.321875,4.765625 11.2234375,4.671875 11.1,4.6234375 L11.1,4.6234375 Z M9.0125,8.35 L9.421875,8.759375 L8.759375,9.421875 L8.35,9.0125 L5.9375,10.06875 L6.9921875,7.65625 L6.59375,7.25625 L7.25625,6.59375 L7.6546875,6.9921875 L10.06875,5.9375 L9.0125,8.35 Z M7.25625,6.59375 L6.59375,7.25625 L6.9921875,7.65625 L8.35,9.0125 L8.759375,9.421875 L9.421875,8.759375 L9.0125,8.35 L7.65625,6.9921875 L7.25625,6.59375 Z" id="Shape" fill-rule="nonzero"></path>
+            </g>
+            <g id="compass" transform="translate(28.000000, 56.000000)" fill="#FFFFFF">
+                <rect id="Rectangle" fill-opacity="0.600000024" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M8,1 C4.134375,1 1,4.134375 1,8 C1,11.865625 4.134375,15 8,15 C11.865625,15 15,11.865625 15,8 C15,4.134375 11.865625,1 8,1 Z M8,13.8125 C4.790625,13.8125 2.1875,11.209375 2.1875,8 C2.1875,4.790625 4.790625,2.1875 8,2.1875 C11.209375,2.1875 13.8125,4.790625 13.8125,8 C13.8125,11.209375 11.209375,13.8125 8,13.8125 Z M11.1,4.6234375 C10.975,4.575 10.8390625,4.578125 10.7171875,4.63125 L6.4828125,6.484375 L4.63125,10.71875 C4.575,10.846875 4.575,10.9921875 4.63125,11.1203125 C4.684375,11.2421875 4.7828125,11.3375 4.9078125,11.3859375 C4.9671875,11.409375 5.028125,11.4203125 5.090625,11.4203125 C5.159375,11.4203125 5.2265625,11.40625 5.290625,11.378125 L9.525,9.525 L11.3765625,5.290625 C11.4328125,5.1625 11.4328125,5.0171875 11.3765625,4.8890625 C11.321875,4.765625 11.2234375,4.671875 11.1,4.6234375 L11.1,4.6234375 Z M9.0125,8.35 L9.421875,8.759375 L8.759375,9.421875 L8.35,9.0125 L5.9375,10.06875 L6.9921875,7.65625 L6.59375,7.25625 L7.25625,6.59375 L7.6546875,6.9921875 L10.06875,5.9375 L9.0125,8.35 Z M7.25625,6.59375 L6.59375,7.25625 L6.9921875,7.65625 L8.35,9.0125 L8.759375,9.421875 L9.421875,8.759375 L9.0125,8.35 L7.65625,6.9921875 L7.25625,6.59375 Z" id="Shape" fill-opacity="0.7" fill-rule="nonzero"></path>
+            </g>
+            <g id="compass" transform="translate(28.000000, 98.000000)" fill="#FFFFFF">
+                <rect id="Rectangle" fill-opacity="0.300000012" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M8,1 C4.134375,1 1,4.134375 1,8 C1,11.865625 4.134375,15 8,15 C11.865625,15 15,11.865625 15,8 C15,4.134375 11.865625,1 8,1 Z M8,13.8125 C4.790625,13.8125 2.1875,11.209375 2.1875,8 C2.1875,4.790625 4.790625,2.1875 8,2.1875 C11.209375,2.1875 13.8125,4.790625 13.8125,8 C13.8125,11.209375 11.209375,13.8125 8,13.8125 Z M11.1,4.6234375 C10.975,4.575 10.8390625,4.578125 10.7171875,4.63125 L6.4828125,6.484375 L4.63125,10.71875 C4.575,10.846875 4.575,10.9921875 4.63125,11.1203125 C4.684375,11.2421875 4.7828125,11.3375 4.9078125,11.3859375 C4.9671875,11.409375 5.028125,11.4203125 5.090625,11.4203125 C5.159375,11.4203125 5.2265625,11.40625 5.290625,11.378125 L9.525,9.525 L11.3765625,5.290625 C11.4328125,5.1625 11.4328125,5.0171875 11.3765625,4.8890625 C11.321875,4.765625 11.2234375,4.671875 11.1,4.6234375 L11.1,4.6234375 Z M9.0125,8.35 L9.421875,8.759375 L8.759375,9.421875 L8.35,9.0125 L5.9375,10.06875 L6.9921875,7.65625 L6.59375,7.25625 L7.25625,6.59375 L7.6546875,6.9921875 L10.06875,5.9375 L9.0125,8.35 Z M7.25625,6.59375 L6.59375,7.25625 L6.9921875,7.65625 L8.35,9.0125 L8.759375,9.421875 L9.421875,8.759375 L9.0125,8.35 L7.65625,6.9921875 L7.25625,6.59375 Z" id="Shape" fill-opacity="0.4" fill-rule="nonzero"></path>
+            </g>
+        </g>
+        <g id="编组" transform="translate(532.000000, 651.000000)">
+            <rect id="Rectangle" fill="#2DA8AE" opacity="0.8" x="0" y="0" width="216" height="165"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#000000" x="0" y="0" width="216" height="40"></rect>
+            <text id="应用菜单-1" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="50" y="26">应用菜单 1 </tspan>
+            </text>
+            <text id="应用菜单-2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.7">
+                <tspan x="48" y="69">应用菜单 2 </tspan>
+            </text>
+            <text id="应用菜单-3" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.4">
+                <tspan x="50" y="111">应用菜单 3</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="28" y="13" width="16" height="16"></rect>
+            <path d="M36,14 C32.134375,14 29,17.134375 29,21 C29,24.865625 32.134375,28 36,28 C39.865625,28 43,24.865625 43,21 C43,17.134375 39.865625,14 36,14 Z M36,26.8125 C32.790625,26.8125 30.1875,24.209375 30.1875,21 C30.1875,17.790625 32.790625,15.1875 36,15.1875 C39.209375,15.1875 41.8125,17.790625 41.8125,21 C41.8125,24.209375 39.209375,26.8125 36,26.8125 Z M39.1,17.6234375 C38.975,17.575 38.8390625,17.578125 38.7171875,17.63125 L34.4828125,19.484375 L32.63125,23.71875 C32.575,23.846875 32.575,23.9921875 32.63125,24.1203125 C32.684375,24.2421875 32.7828125,24.3375 32.9078125,24.3859375 C32.9671875,24.409375 33.028125,24.4203125 33.090625,24.4203125 C33.159375,24.4203125 33.2265625,24.40625 33.290625,24.378125 L37.525,22.525 L39.3765625,18.290625 C39.4328125,18.1625 39.4328125,18.0171875 39.3765625,17.8890625 C39.321875,17.765625 39.2234375,17.671875 39.1,17.6234375 L39.1,17.6234375 Z M37.0125,21.35 L37.421875,21.759375 L36.759375,22.421875 L36.35,22.0125 L33.9375,23.06875 L34.9921875,20.65625 L34.59375,20.25625 L35.25625,19.59375 L35.6546875,19.9921875 L38.06875,18.9375 L37.0125,21.35 Z M35.25625,19.59375 L34.59375,20.25625 L34.9921875,20.65625 L36.35,22.0125 L36.759375,22.421875 L37.421875,21.759375 L37.0125,21.35 L35.65625,19.9921875 L35.25625,19.59375 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill-opacity="0.600000024" fill="#FFFFFF" opacity="0" x="28" y="56" width="16" height="16"></rect>
+            <path d="M36,57 C32.134375,57 29,60.134375 29,64 C29,67.865625 32.134375,71 36,71 C39.865625,71 43,67.865625 43,64 C43,60.134375 39.865625,57 36,57 Z M36,69.8125 C32.790625,69.8125 30.1875,67.209375 30.1875,64 C30.1875,60.790625 32.790625,58.1875 36,58.1875 C39.209375,58.1875 41.8125,60.790625 41.8125,64 C41.8125,67.209375 39.209375,69.8125 36,69.8125 Z M39.1,60.6234375 C38.975,60.575 38.8390625,60.578125 38.7171875,60.63125 L34.4828125,62.484375 L32.63125,66.71875 C32.575,66.846875 32.575,66.9921875 32.63125,67.1203125 C32.684375,67.2421875 32.7828125,67.3375 32.9078125,67.3859375 C32.9671875,67.409375 33.028125,67.4203125 33.090625,67.4203125 C33.159375,67.4203125 33.2265625,67.40625 33.290625,67.378125 L37.525,65.525 L39.3765625,61.290625 C39.4328125,61.1625 39.4328125,61.0171875 39.3765625,60.8890625 C39.321875,60.765625 39.2234375,60.671875 39.1,60.6234375 L39.1,60.6234375 Z M37.0125,64.35 L37.421875,64.759375 L36.759375,65.421875 L36.35,65.0125 L33.9375,66.06875 L34.9921875,63.65625 L34.59375,63.25625 L35.25625,62.59375 L35.6546875,62.9921875 L38.06875,61.9375 L37.0125,64.35 Z M35.25625,62.59375 L34.59375,63.25625 L34.9921875,63.65625 L36.35,65.0125 L36.759375,65.421875 L37.421875,64.759375 L37.0125,64.35 L35.65625,62.9921875 L35.25625,62.59375 Z" id="Shape" fill-opacity="0.7" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill-opacity="0.300000012" fill="#FFFFFF" opacity="0" x="28" y="98" width="16" height="16"></rect>
+            <path d="M36,99 C32.134375,99 29,102.134375 29,106 C29,109.865625 32.134375,113 36,113 C39.865625,113 43,109.865625 43,106 C43,102.134375 39.865625,99 36,99 Z M36,111.8125 C32.790625,111.8125 30.1875,109.209375 30.1875,106 C30.1875,102.790625 32.790625,100.1875 36,100.1875 C39.209375,100.1875 41.8125,102.790625 41.8125,106 C41.8125,109.209375 39.209375,111.8125 36,111.8125 Z M39.1,102.623437 C38.975,102.575 38.8390625,102.578125 38.7171875,102.63125 L34.4828125,104.484375 L32.63125,108.71875 C32.575,108.846875 32.575,108.992188 32.63125,109.120312 C32.684375,109.242188 32.7828125,109.3375 32.9078125,109.385937 C32.9671875,109.409375 33.028125,109.420312 33.090625,109.420312 C33.159375,109.420312 33.2265625,109.40625 33.290625,109.378125 L37.525,107.525 L39.3765625,103.290625 C39.4328125,103.1625 39.4328125,103.017188 39.3765625,102.889062 C39.321875,102.765625 39.2234375,102.671875 39.1,102.623437 L39.1,102.623437 Z M37.0125,106.35 L37.421875,106.759375 L36.759375,107.421875 L36.35,107.0125 L33.9375,108.06875 L34.9921875,105.65625 L34.59375,105.25625 L35.25625,104.59375 L35.6546875,104.992188 L38.06875,103.9375 L37.0125,106.35 Z M35.25625,104.59375 L34.59375,105.25625 L34.9921875,105.65625 L36.35,107.0125 L36.759375,107.421875 L37.421875,106.759375 L37.0125,106.35 L35.65625,104.992188 L35.25625,104.59375 Z" id="Shape" fill-opacity="0.4" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+        <g id="#properties-bottom-401A53E4-D6A9-4C40-9DFD-345E2AD8EF8A复制" transform="translate(640.000000, 684.000000)">
+            <rect id="box" fill="#F5A623" x="0" y="4" width="102" height="22" rx="2"></rect>
+            <rect id="arrow" fill="#F5A623" transform="translate(51.000000, 5.000000) rotate(-45.000000) translate(-51.000000, -5.000000) " x="48" y="2" width="6" height="6"></rect>
+            <text id="Text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="19">fill: #000000 10%</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
