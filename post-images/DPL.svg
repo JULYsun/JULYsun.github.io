@@ -5,40 +5,52 @@
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="-1.09130794%" y1="45.4544914%" x2="98.0640841%" y2="53.7138177%" id="linearGradient-1">
-            <stop stop-color="#7BDCE1" offset="0%"></stop>
-            <stop stop-color="#0593D9" offset="100%"></stop>
+            <stop stop-color="#80A6F2" offset="0%"></stop>
+            <stop stop-color="#05ADD9" offset="100%"></stop>
         </linearGradient>
         <rect id="path-2" x="0" y="0" width="480" height="132.341357"></rect>
-        <rect id="path-4" x="0" y="0" width="93" height="78" rx="16"></rect>
-        <filter x="-17.2%" y="-17.9%" width="134.4%" height="141.0%" filterUnits="objectBoundingBox" id="filter-5">
+        <rect id="path-4" x="129" y="35" width="28" height="28" rx="8"></rect>
+        <filter x="-35.7%" y="-28.6%" width="171.4%" height="171.4%" filterUnits="objectBoundingBox" id="filter-5">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <rect id="path-6" x="47" y="46" width="58" height="24" rx="7"></rect>
-        <filter x="-17.2%" y="-33.3%" width="134.5%" height="183.3%" filterUnits="objectBoundingBox" id="filter-7">
+        <path d="M179.604729,37.5582765 L190.43519,56.5115832 C191.25722,57.9501355 190.75743,59.7826995 189.318878,60.6047294 C188.865585,60.863754 188.352542,61 187.830461,61 L166.169539,61 C164.512685,61 163.169539,59.6568542 163.169539,58 C163.169539,57.4779192 163.305785,56.9648763 163.56481,56.5115832 L174.395271,37.5582765 C175.2173,36.1197242 177.049864,35.619934 178.488417,36.4419639 C178.953511,36.7077318 179.338962,37.0931827 179.604729,37.5582765 Z" id="path-6"></path>
+        <filter x="-24.5%" y="-17.7%" width="148.9%" height="160.5%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-8" cx="143" cy="84" r="14"></circle>
+        <filter x="-35.7%" y="-28.6%" width="171.4%" height="171.4%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-10" points="177 70 190.314791 79.6737621 185.228994 95.3262379 168.771006 95.3262379 163.685209 79.6737621"></polygon>
+        <filter x="-33.3%" y="-28.6%" width="166.5%" height="161.9%" filterUnits="objectBoundingBox" id="filter-11">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="画板" transform="translate(-2246.000000, -388.000000)">
-            <g id="pic-1复制-4" transform="translate(2246.000000, 388.000000)">
+        <g id="画板" transform="translate(-2246.000000, -557.000000)">
+            <g id="pic-1复制-4" transform="translate(2246.000000, 557.000000)">
                 <g id="路径复制">
                     <mask id="mask-3" fill="white">
                         <use xlink:href="#path-2"></use>
                     </mask>
                     <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
-                    <path d="M252.078775,182.234184 C378.894055,93.6424139 480.345904,49.5286284 556.434321,49.8928274 C632.522738,50.2570265 679.425977,50.2570265 697.144037,49.8928274 L697.144037,182.234184 L252.078775,182.234184 Z" fill="#44B2DE" mask="url(#mask-3)"></path>
-                    <path d="M34.9347376,132.341357 C161.750018,43.7495865 263.201867,-0.364199072 339.290284,-7.46017831e-15 C415.378701,0.364199072 462.28194,0.364199072 480,2.16840434e-18 L480,132.341357 L34.9347376,132.341357 Z" id="路径" fill-opacity="0.5" fill="#73C8E4" mask="url(#mask-3)"></path>
-                    <path d="M-214.266958,186.698079 C-87.4516776,98.1063089 14.0001713,53.9925233 90.0885882,54.3567224 C166.177005,54.7209215 213.080244,54.7209215 230.798304,54.3567224 L230.798304,186.698079 L-214.266958,186.698079 Z" fill="#84DCE4" mask="url(#mask-3)" transform="translate(8.265673, 120.526282) scale(-1, 1) translate(-8.265673, -120.526282) "></path>
+                    <path d="M34.9347376,132.341357 C161.750018,43.7495865 263.201867,-0.364199072 339.290284,-7.46017831e-15 C415.378701,0.364199072 462.28194,0.364199072 480,2.16840434e-18 L480,132.341357 L34.9347376,132.341357 Z" id="路径" fill="#3BAAE4" mask="url(#mask-3)"></path>
+                    <path d="M-214.266958,186.698079 C-87.4516776,98.1063089 14.0001713,53.9925233 90.0885882,54.3567224 C166.177005,54.7209215 213.080244,54.7209215 230.798304,54.3567224 L230.798304,186.698079 L-214.266958,186.698079 Z" fill="#7BAFEF" mask="url(#mask-3)" transform="translate(8.265673, 120.526282) scale(-1, 1) translate(-8.265673, -120.526282) "></path>
                     <path d="M0.525164114,132.341357 C127.340445,43.7495865 228.792294,-0.364199072 304.880711,-7.46017831e-15 C380.969128,0.364199072 427.872366,0.364199072 445.590427,2.16840434e-18 L445.590427,132.341357 L0.525164114,132.341357 Z" id="路径" fill-opacity="0.1" fill="#FFFFFF" mask="url(#mask-3)" transform="translate(223.057795, 66.169560) scale(-1, 1) translate(-223.057795, -66.169560) "></path>
                     <circle id="椭圆形" stroke="#FFFFFF" stroke-width="1.31291028" opacity="0.5" mask="url(#mask-3)" transform="translate(239.888403, 20.888403) scale(-1, 1) translate(-239.888403, -20.888403) " cx="239.888403" cy="20.8884026" r="2.88840263"></circle>
                     <circle id="椭圆形复制" stroke="#FFFFFF" stroke-width="1.31291028" opacity="0.5" mask="url(#mask-3)" transform="translate(422.231947, 105.231947) scale(-1, 1) translate(-422.231947, -105.231947) " cx="422.231947" cy="105.231947" r="2.23194748"></circle>
                     <circle id="椭圆形复制-2" stroke="#FFFFFF" stroke-width="1.787746" opacity="0.6" mask="url(#mask-3)" cx="50.1203501" cy="107.12035" r="5.12035011"></circle>
+                    <path d="M252.078775,182.234184 C378.894055,93.6424139 480.345904,49.5286284 556.434321,49.8928274 C632.522738,50.2570265 679.425977,50.2570265 697.144037,49.8928274 L697.144037,182.234184 L252.078775,182.234184 Z" fill="#3BAAE4" mask="url(#mask-3)"></path>
                 </g>
-                <g id="编组" transform="translate(412.000000, 58.000000)" fill="#FFFFFF">
+                <g id="编组" transform="translate(326.000000, 18.000000)" fill="#FFFFFF">
                     <circle id="椭圆形" cx="1.05032823" cy="1.05032823" r="1.05032823"></circle>
                     <circle id="椭圆形复制-11" cx="1.05032823" cy="6.30196937" r="1.05032823"></circle>
                     <circle id="椭圆形复制-20" cx="1.05032823" cy="11.5536105" r="1.05032823"></circle>
@@ -79,39 +91,26 @@
                 <path d="M248.5,23.7768053 L415.5,102" id="路径-2" stroke-opacity="0.5" stroke="#FFFFFF" stroke-width="0.5" opacity="0.5"></path>
                 <path d="M60.9190372,102 L230.798304,23.7768053" id="路径-6" stroke-opacity="0.5" stroke="#FFFFFF" stroke-width="0.5" opacity="0.5"></path>
                 <path d="M30.7221007,18 L412.121668,105.231947" id="路径-7" stroke-opacity="0.5" stroke="#FFFFFF" stroke-width="0.5" opacity="0.5"></path>
-                <g id="illustration" transform="translate(104.000000, 27.000000)">
-                    <g id="矩形">
-                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
-                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
-                    </g>
-                    <rect id="矩形" fill-opacity="0.4" fill="#48B4DE" x="9" y="11" width="76" height="10" rx="5"></rect>
-                    <rect id="矩形复制" fill-opacity="0.4" fill="#48B4DE" x="9" y="31" width="76" height="10" rx="5"></rect>
-                    <circle id="椭圆形" fill="#37D9DF" cx="21.5" cy="56.5" r="9.5"></circle>
-                    <g id="矩形">
-                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
-                        <use fill="#37D9DF" fill-rule="evenodd" xlink:href="#path-6"></use>
-                    </g>
-                    <text id="Submit" font-family="PingFangSC-Semibold, PingFang SC" font-size="10" font-weight="500" fill="#FFFFFF">
-                        <tspan x="59.22" y="62">Submit</tspan>
-                    </text>
-                    <g id="okok" transform="translate(16.000000, 48.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                        <rect id="矩形" opacity="0" x="0" y="0" width="16" height="16"></rect>
-                        <path d="M14.1343772,2.42994309 C13.1721119,1.72296956 11.8023094,1.90721763 11.0736659,2.8403694 L7.11673369,7.91032777 L4.50418876,5.99118942 C3.54190746,5.28421588 2.17105134,5.46795281 1.44347748,6.40108909 C0.714833994,7.33473652 0.903659971,8.66431207 1.86594127,9.37127011 L6.22070433,12.569705 C7.18296965,13.276694 8.5527881,13.0934682 9.28141561,12.1598053 L14.556841,5.39961296 C15.2854845,4.46649215 15.0955889,3.13691661 14.1343772,2.42994309 Z" id="路径"></path>
-                    </g>
-                    <g id="住iocn02" transform="translate(13.000000, 3.000000)" fill-rule="nonzero">
-                        <rect id="矩形" fill="#FFFFFF" opacity="0" x="0" y="0" width="16" height="16"></rect>
-                        <path d="M9.19787584,2.9864232 L14.017664,7.80904147 C14.1319865,7.92336395 14.1661873,8.09529539 14.1043093,8.24466611 C14.0424472,8.39403684 13.89669,8.49142681 13.7350077,8.49142681 L12.4079075,8.49142681 L12.4079075,11.8705278 C12.4079075,12.3987137 12.1929172,12.7066009 12.0125595,12.8718809 C11.6839823,13.1729727 11.26262,13.2101635 11.0745555,13.2101635 C11.044304,13.2101635 10.2493709,13.2082288 10.2493709,13.2082288 C10.0286086,13.2082288 9.84964195,13.0292781 9.84964195,12.8084998 L9.84964194,10.0104769 L7.99489945,10.0104769 L7.99489945,12.8084838 C7.99489945,13.0292622 7.8159328,13.2082128 7.59517047,13.2082128 L4.890844,13.2082128 C4.78913695,13.2118424 4.34666895,13.2068537 4.00043969,12.8817462 C3.82409525,12.7161624 3.61386978,12.4062925 3.61386978,11.8705118 L3.6138698,8.49141083 L2.28676958,8.49141083 C2.12497528,8.49141083 1.97915414,8.39387695 1.91735605,8.24436233 C1.85555795,8.0948477 1.88998261,7.92282033 2.00457691,7.8085778 L7.05715127,2.77199261 C7.89938022,1.92976363 8.30403386,2.04845116 9.19787584,2.9864232 Z" id="路径" fill="#0094C7"></path>
-                    </g>
-                    <g id="人员列表" transform="translate(13.000000, 25.000000)" fill="#0094C7" fill-rule="nonzero">
-                        <rect id="矩形" opacity="0" x="0" y="0" width="16" height="16"></rect>
-                        <path d="M10.7865312,10.3355313 C10.138125,10.0484375 9.16251562,9.30634375 7.73710937,9.05120313 C8.10167187,8.6608125 8.37092187,8.05126563 8.65385937,7.32884375 C8.81835938,6.9103125 8.7855,6.55353125 8.7855,6.04470313 C8.7855,5.66967188 8.85592187,5.06770313 8.76203125,4.73673438 C8.44839063,3.61834375 7.652625,3.31032813 6.72285938,3.31032813 C5.791875,3.31032813 4.99671875,3.62014063 4.68290625,4.73926563 C4.59153125,5.07114063 4.66173437,5.6709375 4.66173437,6.04470313 C4.66173437,6.5544375 4.63417187,6.91282813 4.79903125,7.3315625 C5.08414062,8.05776563 5.35657812,8.666625 5.71879688,9.05573438 C4.30585937,9.3139375 3.39179687,10.0515156 2.74754687,10.3377188 C1.41442187,10.9331875 1.44725,11.5850313 1.44725,11.5850313 L1.44717767,12.6896875 L12.1604375,12.6876875 L12.1604375,11.5850313 C12.1604375,11.5850156 12.1250938,10.9306563 10.7865312,10.3355313 Z M10.305625,3.55945312 L14.5429219,3.55945312 L14.5429219,4.48682812 L10.305625,4.48682812 L10.305625,3.55945312 L10.305625,3.55945312 Z M10.305625,5.59007812 L12.8959687,5.59007812 L12.8959687,6.5334375 L10.305625,6.5334375 L10.305625,5.59007812 Z" id="形状"></path>
-                        <polygon id="路径" points="10.305625 7.62070313 14.0152656 7.62070313 14.0152656 8.5640625 10.305625 8.5640625"></polygon>
-                    </g>
-                </g>
-                <text id="Shanghai-Preschool-R" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#FFFFFF">
-                    <tspan x="219" y="58">Shanghai Preschool </tspan>
-                    <tspan x="219" y="78">Registration System</tspan>
+                <text id="Backstage-Design-Par" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="219" y="67">Backstage</tspan>
+                    <tspan x="219" y="87">Design Parttern Library</tspan>
                 </text>
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFD400" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <g id="三角形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                    <use fill="#008DCB" fill-rule="evenodd" xlink:href="#path-6"></use>
+                </g>
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                    <use fill="#008DCB" fill-rule="evenodd" xlink:href="#path-8"></use>
+                </g>
+                <g id="多边形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                    <use fill="#FFD400" fill-rule="evenodd" xlink:href="#path-10"></use>
+                </g>
             </g>
         </g>
     </g>
