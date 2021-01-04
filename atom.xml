@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://JULYsun.github.io/</id>
+    <id>http://JULYsun.github.io/</id>
     <title>Julyyy.sun</title>
-    <updated>2021-01-04T11:40:30.082Z</updated>
+    <updated>2021-01-04T11:44:10.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://JULYsun.github.io/"/>
-    <link rel="self" href="https://JULYsun.github.io/atom.xml"/>
+    <link rel="alternate" href="http://JULYsun.github.io/"/>
+    <link rel="self" href="http://JULYsun.github.io/atom.xml"/>
     <subtitle>Product Designer</subtitle>
-    <logo>https://JULYsun.github.io/images/avatar.png</logo>
-    <icon>https://JULYsun.github.io/favicon.ico</icon>
+    <logo>http://JULYsun.github.io/images/avatar.png</logo>
+    <icon>http://JULYsun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Julyyy.sun</rights>
     <entry>
         <title type="html"><![CDATA[上海适龄幼儿入园信息登记政务系统]]></title>
-        <id>https://JULYsun.github.io/shanghai-preschool/</id>
-        <link href="https://JULYsun.github.io/shanghai-preschool/">
+        <id>http://JULYsun.github.io/shanghai-preschool/</id>
+        <link href="http://JULYsun.github.io/shanghai-preschool/">
         </link>
         <updated>2019-07-23T14:49:28.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[数据平台后台模块化实践]]></title>
-        <id>https://JULYsun.github.io/DPL/</id>
-        <link href="https://JULYsun.github.io/DPL/">
+        <id>http://JULYsun.github.io/DPL/</id>
+        <link href="http://JULYsun.github.io/DPL/">
         </link>
         <updated>2019-07-22T08:22:29.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[数据采集与清洗工具]]></title>
-        <id>https://JULYsun.github.io/tool-data-processing/</id>
-        <link href="https://JULYsun.github.io/tool-data-processing/">
+        <id>http://JULYsun.github.io/tool-data-processing/</id>
+        <link href="http://JULYsun.github.io/tool-data-processing/">
         </link>
         <updated>2019-07-21T16:05:31.000Z</updated>
     </entry>
