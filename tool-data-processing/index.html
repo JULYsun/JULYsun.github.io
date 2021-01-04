@@ -6,10 +6,10 @@
 
 <title>数据采集与清洗工具 | Julyyy.sun</title>
 
-<link rel="shortcut icon" href="http://JULYsun.github.io//favicon.ico?v=1609760645870">
+<link rel="shortcut icon" href="https://JULYsun.github.io//favicon.ico?v=1609760848328">
 
 <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
-<link rel="stylesheet" href="http://JULYsun.github.io//styles/main.css">
+<link rel="stylesheet" href="https://JULYsun.github.io//styles/main.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/css/bootstrap.min.css">
 
 <script src="https://cdn.jsdelivr.net/npm/@highlightjs/cdn-assets/highlight.min.js"></script>
@@ -77,7 +77,7 @@
             
         </div>
         <div style="text-align: center">
-            <form id="gridea-search-form" style="position: relative" data-update="1609760645870" action="/search/index.html">
+            <form id="gridea-search-form" style="position: relative" data-update="1609760848328" action="/search/index.html">
                 <input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="搜索文章" />
                 <i class="fas fa-search gt-c-content-color-first" style="position: absolute; top: 9px; left: 10px;"></i>
             </form>
@@ -96,11 +96,11 @@
                         · 2019/07/22 ·
                     </time>
                     
-                        <a href="http://JULYsun.github.io/tag/5MgC9yd3T/" class="post-tags">
+                        <a href="https://JULYsun.github.io/tag/5MgC9yd3T/" class="post-tags">
                             # Ixd
                         </a>
                     
-                        <a href="http://JULYsun.github.io/tag/gSdpfdlEE/" class="post-tags">
+                        <a href="https://JULYsun.github.io/tag/gSdpfdlEE/" class="post-tags">
                             # 工具应用
                         </a>
                     
@@ -132,27 +132,27 @@
 </ul>
 <h3 id="22-任务流程的引导">2.2 任务流程的引导</h3>
 <p>项目开始前，我们获得了一份简略的产品功能表格，在第一次产品会议沟通后，我从用户角度整理了整体任务流程。<br>
-<img src="http://JULYsun.github.io//post-images/1563773974743.jpeg" alt="" loading="lazy"><br>
+<img src="https://JULYsun.github.io//post-images/1563773974743.jpeg" alt="" loading="lazy"><br>
 在复杂任务中，用户更容易迷失，而 step by step progress 控件可以更加直观地标识用户当前任务和操作预期。整理出3种样式展示不同的处理阶段：<br>
-<img src="http://JULYsun.github.io//post-images/1563777889045.svg" alt="" loading="lazy"><br>
+<img src="https://JULYsun.github.io//post-images/1563777889045.svg" alt="" loading="lazy"><br>
 从而统一组织了三大数据处理状态。</p>
 <h3 id="23-数据处理结果展示与交互-masterdetail-interface">2.3 数据处理结果展示与交互 Master/Detail Interface</h3>
 <p>对比全量数据展示和分条数据展示，分条数据在信息展示面积和资源要求方面更加具有优势。<br>
-<img src="http://JULYsun.github.io//post-images/1563774352342.png" alt="" loading="lazy"><br>
+<img src="https://JULYsun.github.io//post-images/1563774352342.png" alt="" loading="lazy"><br>
 在界面设计上同样采用左右两栏布局：左侧（Master）为根据设置规则筛选出的样本数据列表，右侧（Detail）为样本数据的详细信息和相关操作。信息架构如下：<br>
-<img src="http://JULYsun.github.io//post-images/1563775046377.png" alt="" loading="lazy"><br>
+<img src="https://JULYsun.github.io//post-images/1563775046377.png" alt="" loading="lazy"><br>
 设计原型图如下（以数据补缺为例）：<br>
-<img src="http://JULYsun.github.io//post-images/1563778699806.jpeg" alt="" loading="lazy"></p>
+<img src="https://JULYsun.github.io//post-images/1563778699806.jpeg" alt="" loading="lazy"></p>
 <h3 id="24-返回与撤销状态的补充">2.4 返回与撤销状态的补充</h3>
 <p>在产品设计中，操作返回和撤销也是必要的组成部分，在Web环境复杂流程产品中，返回和撤销逻辑同样与服务器端的保存状态密切相关。在设计结果在用户层面需要满足心智模型，在产品层面需要统一的跳转逻辑。<br>
 一次数据采集清洗任务包括课题建立、任务设置、数据补缺、数据替换、数据去重共五大步骤，在设计时容易陷入设计细节。由于数据补缺、替换、去重三大操作的相似性（设置-扫描-修改-生成），我们将它们定义为「阶段」。在结构梳理中，将「阶段」作为最小单元。<br>
-<img src="http://JULYsun.github.io//post-images/1563789714473.jpeg" alt="" loading="lazy"><br>
+<img src="https://JULYsun.github.io//post-images/1563789714473.jpeg" alt="" loading="lazy"><br>
 并在阶段之间加入<strong>完成页面</strong>，用于承载运行结果和用户操作（继续、导出、返回）。而返回按钮直接跳转至上一阶段的<strong>完成页面</strong>（回滚一个版本的数据表）：1、方便用户连续返回至前一个数据状态；2、出现数据的运行结果，让用户了解当前状态，对接下来的操作有准确的心理预期。</p>
 <h2 id="3-设计产出部分">3 设计产出（部分）</h2>
-<figure data-type="image" tabindex="1"><img src="http://JULYsun.github.io//post-images/1563785573892.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://JULYsun.github.io//post-images/1563785573892.jpeg" alt="" loading="lazy"></figure>
 <h2 id="4-项目总结">4 项目总结</h2>
 <p>数据采集与清洗工具是一次较为复杂的产品设计尝试。我们将一般的设计流程进行解构并应用在多个层次的设计工作中：<br>
-<img src="http://JULYsun.github.io//post-images/1563781344387.svg" alt="" loading="lazy"><br>
+<img src="https://JULYsun.github.io//post-images/1563781344387.svg" alt="" loading="lazy"><br>
 当前项目已应用于某高校科研数据研究项目支持中，相比于此前的解决方案，做到了：</p>
 <ul>
 <li>整合定向采集需求，防止重复开发工作，降低了高校项目中开发人员的工作量。</li>
@@ -194,7 +194,7 @@
     </div>
     <div>
         Theme by <a href="https://imhanjie.com/" target="_blank">imhanjie</a>, Powered by <a
-                href="https://github.com/getgridea/gridea" target="_blank">Gridea | <a href="http://JULYsun.github.io//atom.xml" target="_blank">RSS</a></a>
+                href="https://github.com/getgridea/gridea" target="_blank">Gridea | <a href="https://JULYsun.github.io//atom.xml" target="_blank">RSS</a></a>
     </div>
 </div>
 
